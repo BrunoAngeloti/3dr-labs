@@ -53,10 +53,10 @@ export const catalog: Category[] = [
           "Anjo decorativo em impressão 3D, com detalhes vazados e acabamento translúcido. Ideal para decoração, presentes, lembranças religiosas ou ambientes de paz e espiritualidade.",
         images: [
           "/produtos/Anjo-decorativo.jpg",
-          "/produtos/Anjo-decorativo1.jpg",
           "/produtos/Anjo-decorativo2.jpg",
           "/produtos/Anjo-decorativo3.jpg",
           "/produtos/Anjo-decorativo4.jpg",
+          "/produtos/Anjo-decorativo5.jpg",
         ],
       },
     ],
