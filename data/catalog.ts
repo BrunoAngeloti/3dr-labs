@@ -42,12 +42,12 @@ export const catalog: Category[] = [
   },
   {
     id: "teste",
-    title: "Bonecos Crochê",
+    title: "teste",
     image: "/produtos/bonecos-croche/categoria.png",
     products: [
       {
         id: "teste",
-        title: "Ursinho Crochê 3D",
+        title: "teste",
         price: "R$ 49,90",
         description:
           "Boneco decorativo com acabamento texturizado, ideal para presentes e decoração.",
