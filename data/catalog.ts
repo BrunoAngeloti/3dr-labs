@@ -41,20 +41,22 @@ export const catalog: Category[] = [
     ],
   },
   {
-    id: "teste",
-    title: "teste2",
-    image: "/produtos/—Pngtree—white instagram icon png instagram_3562066.png",
+    id: "religiosos",
+    title: "Religiosos",
+    image: "public/produtos/Anjo-decorativo.jpg",
     products: [
       {
-        id: "teste",
-        title: "teste",
+        id: "anjo-decorativo",
+        title: "Anjo Decorativo",
         price: "R$ 49,90",
         description:
-          "Boneco decorativo com acabamento texturizado, ideal para presentes e decoração.",
+          "Anjo decorativo em impressão 3D, com detalhes vazados e acabamento translúcido. Ideal para decoração, presentes, lembranças religiosas ou ambientes de paz e espiritualidade.",
         images: [
-          "/produtos/bonecos-croche/ursinho-1.png",
-          "/produtos/bonecos-croche/ursinho-2.png",
-          "/produtos/bonecos-croche/ursinho-3.png",
+          "/produtos/Anjo-decorativo.jpg",
+          "/produtos/Anjo-decorativo1.jpg",
+          "/produtos/Anjo-decorativo2.jpg",
+          "/produtos/Anjo-decorativo3.jpg",
+          "/produtos/Anjo-decorativo4.jpg",
         ],
       },
     ],
