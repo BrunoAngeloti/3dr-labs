@@ -16,10 +16,6 @@ export function CategorySection({ category }: Props) {
         <h2 className="text-3xl font-semibold tracking-tight text-zinc-950 md:text-4xl">
           {category.title}
         </h2>
-
-        {category.description && (
-          <p className="max-w-2xl text-zinc-600">{category.description}</p>
-        )}
       </div>
 
       <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
