@@ -43,7 +43,7 @@ export const catalog: Category[] = [
   {
     id: "teste",
     title: "teste",
-    image: "/produtos/bonecos-croche/categoria.png",
+    image: "public/produtos/boneco teste.jpeg",
     products: [
       {
         id: "teste",
