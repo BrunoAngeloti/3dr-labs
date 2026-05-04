@@ -42,8 +42,8 @@ export const catalog: Category[] = [
   },
   {
     id: "teste",
-    title: "teste",
-    image: "public/produtos/—Pngtree—white instagram icon png instagram_3562066.png",
+    title: "teste2",
+    image: "/produtos/—Pngtree—white instagram icon png instagram_3562066.png",
     products: [
       {
         id: "teste",
