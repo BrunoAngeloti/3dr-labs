@@ -143,6 +143,102 @@ export const catalog: Category[] = [
       },
     ],
   },
+  {    
+    id: "suportes",
+    title: "Suportes",
+    image: "/produtos/suportecap",
+    products: [
+      {
+        id: "suporte-sm-simples",
+        title: "Suporte para Controle - Homem Aranha - Simples",
+        price: "R$ 25",
+        description:
+          "Suporte para controle inspirado em tema de herói, feito em impressão 3D com acabamento resistente e design moderno. Ideal para organizar seu setup gamer com estilo e personalidade.",
+        images: [
+          "/produtos/suporte-sm-simples.jpg",
+          "/produtos/suporte-sm-simples2.jpg",
+          "/produtos/suporte-sm-simples3.jpg",
+          "/produtos/suporte-sm-simples4.jpg",
+          "/produtos/suporte-sm-simples5.jpg",
+        ],
+      },
+      
+      {
+        id: "suporte-sm-teia",
+        title: "Suporte para Controle - Homem Aranha",
+        price: "R$ 40",
+        description:
+          "Leve mais personalidade para seu setup com este suporte inspirado no Homem-Aranha. Além de manter seu controle organizado e protegido, ele funciona como peça decorativa para fãs da Marvel, com design criativo que destaca qualquer mesa gamer.",
+        images: [
+          "/produtos/suporte-sm-teia.jpg",
+          "/produtos/suporte-sm-teia2.jpg",
+          "/produtos/suporte-sm-teia3.jpg",
+          "/produtos/suporte-sm-teia4.jpg",
+          "/produtos/suporte-sm-teia5.jpg",
+        ],
+      },
+      
+      {
+        id: "suporte-hf",
+        title: "Suporte para Controle - Homem de Ferro",
+        price: "R$ 35",
+        description:
+          "Organização e estilo em uma peça só. Inspirado na armadura do Homem de Ferro, este suporte acomoda seu controle com segurança e adiciona um visual marcante ao seu setup. Ideal para fãs de tecnologia, games e do universo Marvel.",
+        images: [
+          "/produtos/suporte-hf.jpg",
+          "/produtos/suporte-hf2.jpg",
+          "/produtos/suporte-hf3.jpg",
+          "/produtos/suporte-hf4.jpg",
+          "/produtos/suporte-hf5.jpg",
+        ],
+      },
+      
+      {
+        id: "suporte-ipad",
+        title: "Suporte para iPad",
+        price: "R$ 50",
+        description:
+          "Praticidade e conforto para o seu dia a dia. Este suporte mantém seu iPad na posição ideal para assistir, estudar, desenhar ou fazer videochamadas com mais ergonomia e estabilidade. Com design minimalista e resistente, é perfeito para mesas de trabalho, estudo ou uso doméstico.",
+        images: [
+          "/produtos/suporte-ipad.jpg",
+          "/produtos/suporte-ipad2.jpg",
+          "/produtos/suporte-ipad3.jpg",
+          "/produtos/suporte-ipad4.jpg",
+          "/produtos/suporte-ipad5.jpg",
+        ],
+      },
+      
+      {
+        id: "suporte-cristais",
+        title: "Suporte para Controle de Video Game - Cristais",
+        price: "R$ 35",
+        description:
+          "Organize seu setup com estilo. Este suporte para controle mantém seu joystick protegido, sempre acessível e ainda valoriza sua mesa com um visual geométrico moderno e diferenciado.",
+        images: [
+          "/produtos/suporte-cristais.jpg",
+          "/produtos/suporte-cristais2.jpg",
+          "/produtos/suporte-cristais3.jpg",
+          "/produtos/suporte-cristais4.jpg",
+          "/produtos/suporte-cristais5.jpg",
+        ],
+      },
+      
+      {
+        id: "suporte-cf",
+        title: "Suporte Para Celular e Fone",
+        price: "R$ 30",
+        description:
+          "Mantenha sua mesa organizada e seus dispositivos sempre à mão. Este suporte foi projetado para acomodar seu celular com estabilidade enquanto também serve como apoio para fones de ouvido, evitando bagunça e protegendo seus acessórios. Com design moderno e compacto, é perfeito para mesas de estudo, trabalho ou setup gamer. Produzido em impressão 3D de alta qualidade, é resistente, funcional e combina com qualquer ambiente.",
+        images: [
+          "/produtos/suporte-cf.jpg",
+          "/produtos/suporte-cf2.jpg",
+          "/produtos/suporte-cf3.jpg",
+          "/produtos/suporte-cf4.jpg",
+          "/produtos/suporte-cf5.jpg",
+        ],
+      },
+    ]
+  }
 ];
 
 export function getCategoryById(categoryId: string) {
