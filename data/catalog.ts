@@ -238,7 +238,8 @@ export const catalog: Category[] = [
         ],
       },
     ]
-    {    
+  }
+  {    
     id: "colecionaveis",
     title: "Artigos Colecionáveis",
     image: "/produtos/katana",
@@ -257,8 +258,8 @@ export const catalog: Category[] = [
           "/produtos/katana5.jpg",
         ],
       },
-    },
-  }
+    ]
+  },
 ];
 
 export function getCategoryById(categoryId: string) {
