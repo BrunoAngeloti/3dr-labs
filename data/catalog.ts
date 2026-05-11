@@ -238,11 +238,11 @@ export const catalog: Category[] = [
         ],
       },
     ]
-  }
+  },
   {    
-    id: "colecionaveis",
-    title: "Artigos Colecionáveis",
-    image: "/produtos/katana",
+    id: "suportes",
+    title: "Suportes",  
+    image: "/produtos/suportecap",
     products: [
       {
         id: "katana-inosuke",
