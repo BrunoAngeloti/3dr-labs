@@ -33,11 +33,11 @@ export const catalog: Category[] = [
         description:
           "Inspirado em Como Treinar Seu Dragão, este Banguela em estilo crochê combina fofura e criatividade em uma peça única. Ideal para decorar mesas, nichos e setups, ou presentear fãs do dragão mais querido do cinema. Produzido em impressão 3D, é um item colecionável cheio de personalidade e charme.",
         images: [
-          "/produtos/banguela-croche.jpg",
-          "/produtos/banguela-croche2.jpg",
-          "/produtos/banguela-croche3.jpg",
-          "/produtos/banguela-croche4.jpg",
-          "/produtos/banguela-croche5.jpg",
+          "/produtos/Banguela-croche.jpg",
+          "/produtos/Banguela-croche2.jpg",
+          "/produtos/Banguela-croche3.jpg",
+          "/produtos/Banguela-croche4.jpg",
+          "/produtos/Banguela-croche5.jpg",
          ],
       },
       {
