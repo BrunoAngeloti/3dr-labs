@@ -100,8 +100,6 @@ export const catalog: Category[] = [
           "/produtos/marca-pagina-crisma.jpg",
           "/produtos/marca-pagina-crisma2.jpg",
           "/produtos/marca-pagina-crisma3.jpg",
-          "/produtos/marca-pagina-crisma4.jpg",
-          "/produtos/marca-pagina-crisma5.jpg",
         ],
       },
       {
@@ -139,11 +137,8 @@ export const catalog: Category[] = [
         description:
           "Uma forma especial de eternizar a Primeira Eucaristia. Este marca-página com o símbolo da cruz representa fé, gratidão e um marco importante na vida cristã. Personalizável com nome e data, é perfeito como lembrança da celebração ou presente para familiares. Produzido em impressão 3D com design elegante e excelente nível de detalhes.",
         images: [
-          "/produtos/marca-pagina-cruz1.jpg",
+          "/produtos/marca-pagina-cruz.jpg",
           "/produtos/marca-pagina-cruz2.jpg",
-          "/produtos/marca-pagina-cruz3.jpg",
-          "/produtos/marca-pagina-cruz4.jpg",
-          "/produtos/marca-pagina-cruz5.jpg",
         ],
       },
     ],
