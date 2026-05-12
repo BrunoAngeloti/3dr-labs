@@ -97,9 +97,9 @@ export const catalog: Category[] = [
         description:
           "Marque suas leituras com fé e significado. Este marca-página personalizado para Crisma traz o símbolo do Espírito Santo, representando um momento especial na caminhada cristã. Perfeito como lembrança da celebração ou presente para familiares e padrinhos. Produzido em impressão 3D com ótimo acabamento e possibilidade de personalização com nome e data.",
         images: [
-          "/produtos/marca-pagina-crisma.jpg",
-          "/produtos/marca-pagina-crisma2.jpg",
-          "/produtos/marca-pagina-crisma3.jpg",
+          "/produtos/marca-pagina-crisma.jpeg",
+          "/produtos/marca-pagina-crisma2.jpeg",
+          "/produtos/marca-pagina-crisma3.jpeg",
         ],
       },
       {
@@ -137,8 +137,8 @@ export const catalog: Category[] = [
         description:
           "Uma forma especial de eternizar a Primeira Eucaristia. Este marca-página com o símbolo da cruz representa fé, gratidão e um marco importante na vida cristã. Personalizável com nome e data, é perfeito como lembrança da celebração ou presente para familiares. Produzido em impressão 3D com design elegante e excelente nível de detalhes.",
         images: [
-          "/produtos/marca-pagina-cruz.jpg",
-          "/produtos/marca-pagina-cruz2.jpg",
+          "/produtos/marca-pagina-cruz.jpeg",
+          "/produtos/marca-pagina-cruz2.jpeg",
         ],
       },
     ],
@@ -240,9 +240,9 @@ export const catalog: Category[] = [
     ]
   },
   {    
-    id: "suportes",
-    title: "Suportes",  
-    image: "/produtos/suportecap",
+    id: "colecionaveis",
+    title: "Artigos Colecionáveis",  
+    image: "/produtos/katana.jpg",
     products: [
       {
         id: "katana-inosuke",
