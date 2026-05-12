@@ -154,11 +154,11 @@ export const catalog: Category[] = [
         description:
           "Suporte para controle inspirado em tema de herói, feito em impressão 3D com acabamento resistente e design moderno. Ideal para organizar seu setup gamer com estilo e personalidade.",
         images: [
-          "/produtos/suporte-sm-simples.jpg",
-          "/produtos/suporte-sm-simples2.jpg",
-          "/produtos/suporte-sm-simples3.jpg",
-          "/produtos/suporte-sm-simples4.jpg",
-          "/produtos/suporte-sm-simples5.jpg",
+          "/suporte-sm-simples.jpg",
+          "/suporte-sm-simples2.jpg",
+          "/suporte-sm-simples3.jpg",
+          "/suporte-sm-simples4.jpg",
+          "/suporte-sm-simples5.jpg",
         ],
       },
       {
@@ -196,11 +196,11 @@ export const catalog: Category[] = [
         description:
           "Praticidade e conforto para o seu dia a dia. Este suporte mantém seu iPad na posição ideal para assistir, estudar, desenhar ou fazer videochamadas com mais ergonomia e estabilidade. Com design minimalista e resistente, é perfeito para mesas de trabalho, estudo ou uso doméstico.",
         images: [
-          "/produtos/suporte-ipad.jpg",
-          "/produtos/suporte-ipad2.jpg",
-          "/produtos/suporte-ipad3.jpg",
-          "/produtos/suporte-ipad4.jpg",
-          "/produtos/suporte-ipad5.jpg",
+          "/suporte-ipad.jpg",
+          "/suporte-ipad2.jpg",
+          "/suporte-ipad3.jpg",
+          "/suporte-ipad4.jpg",
+          "/suporte-ipad5.jpg",
         ],
       },
       {
@@ -330,25 +330,28 @@ export const catalog: Category[] = [
         description:
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
         images: [
-          "/produtos/seu-boneco-personalizado.jpg",
-          "/produtos/seu-boneco-personalizado2.jpg",
-          "/produtos/seu-boneco-personalizado3.jpg",
-          "/produtos/seu-boneco-personalizado4.jpg",
-          "/produtos/seu-boneco-personalizado5.jpg",
+          "/produtos/seu-boneco-personalizado.png",
         ],
       },
       {
         id: "chaveiro-personalizado",
-        title: "Chaveiro Peesonalizado",
+        title: "Chaveiro Personalizado",
         price: "R$ 20",
         description:
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
         images: [
-          "/produtos/chaveiro.jpg",
+          "/produtos/chaveiro1.jpg",
           "/produtos/chaveiro2.jpg",
-          "/produtos/chaveiro3.jpg",
-          "/produtos/chaveiro4.jpg",
-          "/produtos/chaveiro5.jpg",
+        ],
+      },
+      {
+        id: "letreiro-nome",
+        title: "Letreiro Nome Personalizado",
+        price: "R$ 35",
+        description:
+          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
+        images: [
+          "/produtos/Letreironome.jpg",
         ],
       },
     ],
@@ -389,11 +392,11 @@ export const catalog: Category[] = [
         description:
           "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
         images: [
+          "/produtos/caixas.jpeg",
           "/produtos/Caixa-grande.jpg",
           "/produtos/Caixa-grande2.jpg",
           "/produtos/Caixa-pequena1.jpeg",
           "/produtos/Caixa-pequena2.jpeg",
-          "/produtos/caixas.jpeg",
         ],
       },
        {
