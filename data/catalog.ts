@@ -251,11 +251,11 @@ export const catalog: Category[] = [
         description:
           "Leve para sua coleção a força e o estilo de um dos personagens mais marcantes dos animes. Esta katana inspirada em Inosuke é uma peça decorativa cheia de personalidade, perfeita para fãs, colecionadores ou para compor seu setup geek. Produzida em impressão 3D, possui design detalhado e acabamento que destaca o visual único da espada. Ideal para decoração, cosplay ou exposição.",
         images: [
-          "/produtos/katana.jpg",
-          "/produtos/katana2.jpg",
-          "/produtos/katana3.jpg",
-          "/produtos/katana4.jpg",
-          "/produtos/katana5.jpg",
+          "/katana.jpg",
+          "/katana2.jpg",
+          "/katana3.jpg",
+          "/katana4.jpg",
+          "/katana5.jpg",
         ],
       },
     ]
