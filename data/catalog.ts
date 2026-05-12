@@ -294,6 +294,20 @@ export const catalog: Category[] = [
           "/produtos/LLogo-F!d7.jpg",
         ],
       },
+      {
+        id: "chaveiro-mercedez",
+        title: "Chaveiro Escuderia Mercedez F1",
+        price: "R$ 15",
+        description:
+          "Leve sua paixão pelo automobilismo para todo lugar. Com design inspirado na equipe Mercedes F1, este chaveiro é um acessório perfeito para fãs de corrida e também uma ótima opção para presentear.",
+        images: [
+          "/produtos/Chaveiro-meercedez.jpg",
+          "/produtos/Chaveiro-meercedez2.jpg",
+          "/produtos/Chaveiro-meercedez3.jpg",
+          "/produtos/Chaveiro-meercedez4.jpg",
+          "/produtos/Chaveiro-meercedez5.jpg",
+        ],
+      },
     ]
   },
   {    
@@ -327,6 +341,25 @@ export const catalog: Category[] = [
           "/produtos/seu-boneco-personalizado3.jpg",
           "/produtos/seu-boneco-personalizado4.jpg",
           "/produtos/seu-boneco-personalizado5.jpg",
+        ],
+      },
+    ]
+  },
+  {    
+    id: "copa",
+    title: "Especial Copa do Mundo",  
+    image: "/produtos/katana.jpg",
+    products: [
+      {
+        id: "caixa-grande",
+        title: "Caixa Para Figurinhas - Grande",
+        price: "R$ 40",
+        description:
+          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
+        images: [
+          "/produtos/Caixa-grande.jpg",
+          "/produtos/Caixa-grande2.jpg",
+          "/produtos/Caixa-grande3.jpg",
         ],
       },
     ]
