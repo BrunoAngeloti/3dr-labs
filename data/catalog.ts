@@ -154,11 +154,11 @@ export const catalog: Category[] = [
         description:
           "Suporte para controle inspirado em tema de herói, feito em impressão 3D com acabamento resistente e design moderno. Ideal para organizar seu setup gamer com estilo e personalidade.",
         images: [
-          "/suporte-sm-simples.jpg",
-          "/suporte-sm-simples2.jpg",
-          "/suporte-sm-simples3.jpg",
-          "/suporte-sm-simples4.jpg",
-          "/suporte-sm-simples5.jpg",
+          "/produtos/suporte-sm-simples.jpg",
+          "/produtos/suporte-sm-simples2.jpg",
+          "/produtos/suporte-sm-simples3.jpg",
+          "/produtos/suporte-sm-simples4.jpg",
+          "/produtos/suporte-sm-simples5.jpg",
         ],
       },
       {
@@ -196,11 +196,11 @@ export const catalog: Category[] = [
         description:
           "Praticidade e conforto para o seu dia a dia. Este suporte mantém seu iPad na posição ideal para assistir, estudar, desenhar ou fazer videochamadas com mais ergonomia e estabilidade. Com design minimalista e resistente, é perfeito para mesas de trabalho, estudo ou uso doméstico.",
         images: [
-          "/suporte-ipad.jpg",
-          "/suporte-ipad2.jpg",
-          "/suporte-ipad3.jpg",
-          "/suporte-ipad4.jpg",
-          "/suporte-ipad5.jpg",
+          "/produtos/suporte-ipad.jpg",
+          "/produtos/suporte-ipad2.jpg",
+          "/produtos/suporte-ipad3.jpg",
+          "/produtos/suporte-ipad4.jpg",
+          "/produtos/suporte-ipad5.jpg",
         ],
       },
       {
