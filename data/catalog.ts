@@ -440,7 +440,7 @@ export const catalog: Category[] = [
   {    
     id: "maes",
     title: "Especial Dia das Mães",  
-    image: "/produtos/maeteamo.jpg",
+    image: "/produtos/maecap.jpg",
     products: [
       {
         id: "latreiro",
