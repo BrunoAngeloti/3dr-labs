@@ -260,6 +260,42 @@ export const catalog: Category[] = [
       },
     ]
   },
+  {    
+    id: "Formula1",
+    title: "Artigos de Fórmula 1",  
+    image: "/produtos/katana.jpg",
+    products: [
+      {
+        id: "carro-formula-1-miniatura",
+        title: "Carro Fórmula 1 Miniatura",
+        price: "R$ 50",
+        description:
+          "Uma miniatura inspirada nos carros de Fórmula 1, perfeita para fãs de automobilismo e velocidade. Com design detalhado e visual moderno, é ideal para decorar mesas, estantes, setups ou coleções. Produzido em impressão 3D de alta qualidade, combina estilo, personalidade e acabamento impecável.",
+        images: [
+          "/produtos/miniatura-f1.jpg",
+          "/produtos/miniatura-f12.jpg",
+          "/produtos/miniatura-f13.jpg",
+          "/produtos/miniatura-f14.jpg",
+        ],
+      },
+      {
+        id: "logo-decorativo-f1",
+        title: "Logo Decorativo F1",
+        price: "R$ 30",
+        description:
+          "Uma peça decorativa perfeita para fãs de automobilismo e velocidade. Inspirada no universo da Fórmula 1, esta logo traz um visual moderno e marcante para setups, mesas, quartos ou coleções. Produzida em impressão 3D com ótimo acabamento, é ideal para adicionar personalidade e um toque esportivo ao ambiente.",
+        images: [
+          "/produtos/LLogo-F!d.jpg",
+          "/produtos/LLogo-F!d2.jpg",
+          "/produtos/LLogo-F!d3.jpg",
+          "/produtos/LLogo-F!d4.jpg",
+          "/produtos/LLogo-F!d5.jpg",
+          "/produtos/LLogo-F!d6.jpg",
+          "/produtos/LLogo-F!d7.jpg",
+        ],
+      },
+    ]
+  },
 ];
 
 export function getCategoryById(categoryId: string) {
