@@ -296,6 +296,41 @@ export const catalog: Category[] = [
       },
     ]
   },
+  {    
+    id: "Personalizados",
+    title: "Artigos Personalizados",  
+    image: "/produtos/katana.jpg",
+    products: [
+      {
+        id: "letreiro-nome-personalizado",
+        title: "Letreiro Nome Personalizado",
+        price: "R$ 30",
+        description:
+          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
+        images: [
+          "/produtos/letreiro-personalizado.jpg",
+          "/produtos/letreiro-personalizado2.jpg",
+          "/produtos/letreiro-personalizado3.jpg",
+          "/produtos/letreiro-personalizado4.jpg",
+          "/produtos/letreiro-personalizado5.jpg",
+        ],
+      },
+      {
+        id: "seu-boneco-personalizado",
+        title: "Seu Boneco Personalizado",
+        price: "R$ 65",
+        description:
+          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
+        images: [
+          "/produtos/seu-boneco-personalizado.jpg",
+          "/produtos/seu-boneco-personalizado2.jpg",
+          "/produtos/seu-boneco-personalizado3.jpg",
+          "/produtos/seu-boneco-personalizado4.jpg",
+          "/produtos/seu-boneco-personalizado5.jpg",
+        ],
+      },
+    ]
+  },
 ];
 
 export function getCategoryById(categoryId: string) {
