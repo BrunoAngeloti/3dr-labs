@@ -145,7 +145,7 @@ export const catalog: Category[] = [
   {    
     id: "suportes",
     title: "Suportes",
-    image: "/produtos/suportecap",
+    image: "/produtos/suporte-sm-teia.jpg",
     products: [
       {
         id: "suporte-sm-simples",
@@ -236,7 +236,7 @@ export const catalog: Category[] = [
   {    
     id: "colecionaveis",
     title: "Artigos Colecionáveis",  
-    image: "/produtos/katana.jpg",
+    image: "/katana.jpg",
     products: [
       {
         id: "katana-inosuke",
@@ -257,7 +257,7 @@ export const catalog: Category[] = [
   {    
     id: "Formula1",
     title: "Artigos de Fórmula 1",  
-    image: "/produtos/katana.jpg",
+    image: "/produtos/miniatura-f1.jpg",
     products: [
       {
         id: "carro-formula-1-miniatura",
@@ -307,7 +307,7 @@ export const catalog: Category[] = [
   {    
     id: "Personalizados",
     title: "Artigos Personalizados",  
-    image: "/produtos/katana.jpg",
+    image: "/produtos/seu-boneco-personalizado.jpg",
     products: [
       {
         id: "letreiro-nome-personalizado",
@@ -356,7 +356,7 @@ export const catalog: Category[] = [
   {    
     id: "copa",
     title: "Especial Copa do Mundo",  
-    image: "/produtos/katana.jpg",
+    image: "/produtos/Caixas.jpg",
     products: [
       {
         id: "caixa-grande",
@@ -437,7 +437,7 @@ export const catalog: Category[] = [
   {    
     id: "maes",
     title: "Especial Dia das Mães",  
-    image: "/produtos/katana.jpg",
+    image: "/produtos/maeteamo.jpg",
     products: [
       {
         id: "latreiro",
