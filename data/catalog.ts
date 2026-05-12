@@ -351,7 +351,7 @@ export const catalog: Category[] = [
         description:
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
         images: [
-          "/produtos/Letreironome.jpg",
+          "/produtos/Letreironome.jpeg",
         ],
       },
     ],
