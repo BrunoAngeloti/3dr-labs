@@ -376,7 +376,7 @@ export const catalog: Category[] = [
       {
         id: "caixa-pequena",
         title: "Caixa Para Figurinhas - Pequena",
-        price: "R$ 25",
+        price: "R$ 20",
         description:
           "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
         images: [
