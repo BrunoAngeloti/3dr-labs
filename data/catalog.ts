@@ -307,7 +307,7 @@ export const catalog: Category[] = [
   {    
     id: "Personalizados",
     title: "Artigos Personalizados",  
-    image: "/produtos/seu-boneco-personalizado.jpg",
+    image: "/produtos/seu-boneco-personalizado.png",
     products: [
       {
         id: "letreiro-nome-personalizado",
