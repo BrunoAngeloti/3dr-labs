@@ -356,7 +356,7 @@ export const catalog: Category[] = [
   {    
     id: "copa",
     title: "Especial Copa do Mundo",  
-    image: "/produtos/Caixas.jpeg",
+    image: "/produtos/caixas.jpeg",
     products: [
       {
         id: "caixa-grande",
@@ -377,7 +377,7 @@ export const catalog: Category[] = [
         description:
           "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
         images: [
-          "/produtos/Caixa-pequena.jpeg",
+          "/produtos/Caixa-pequena1.jpeg",
           "/produtos/Caixa-pequena2.jpeg",
           "/produtos/Caixa-pequena3.jpeg",
         ],
@@ -389,11 +389,11 @@ export const catalog: Category[] = [
         description:
           "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
         images: [
-          "/produtos/Caixa-Grande.jpg",
-          "/produtos/Caixa-Grande2.jpg",
-          "/produtos/Caixa-pequena.jpeg",
+          "/produtos/Caixa-grande.jpg",
+          "/produtos/Caixa-grande2.jpg",
+          "/produtos/Caixa-pequena1.jpeg",
           "/produtos/Caixa-pequena2.jpeg",
-          "/produtos/Caixas.jpeg",
+          "/produtos/caixas.jpeg",
         ],
       },
        {
