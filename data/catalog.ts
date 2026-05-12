@@ -54,7 +54,6 @@ export const catalog: Category[] = [
           "/produtos/esquilo-croche5.jpg",
         ],
       },
-      
       {
         id: "urso-panda-croche",
         title: "Urso Panda (Crochê)",
@@ -162,7 +161,6 @@ export const catalog: Category[] = [
           "/produtos/suporte-sm-simples5.jpg",
         ],
       },
-      
       {
         id: "suporte-sm-teia",
         title: "Suporte para Controle - Homem Aranha",
@@ -177,7 +175,6 @@ export const catalog: Category[] = [
           "/produtos/suporte-sm-teia5.jpg",
         ],
       },
-      
       {
         id: "suporte-hf",
         title: "Suporte para Controle - Homem de Ferro",
@@ -192,7 +189,6 @@ export const catalog: Category[] = [
           "/produtos/suporte-hf5.jpg",
         ],
       },
-      
       {
         id: "suporte-ipad",
         title: "Suporte para iPad",
@@ -207,7 +203,6 @@ export const catalog: Category[] = [
           "/produtos/suporte-ipad5.jpg",
         ],
       },
-      
       {
         id: "suporte-cristais",
         title: "Suporte para Controle de Video Game - Cristais",
@@ -222,7 +217,6 @@ export const catalog: Category[] = [
           "/produtos/suporte-cristais5.jpg",
         ],
       },
-      
       {
         id: "suporte-cf",
         title: "Suporte Para Celular e Fone",
@@ -237,7 +231,7 @@ export const catalog: Category[] = [
           "/produtos/suporte-cf5.jpg",
         ],
       },
-    ]
+    ],
   },
   {    
     id: "colecionaveis",
@@ -258,7 +252,7 @@ export const catalog: Category[] = [
           "/katana5.jpg",
         ],
       },
-    ]
+    ],
   },
   {    
     id: "Formula1",
@@ -308,7 +302,7 @@ export const catalog: Category[] = [
           "/produtos/Chaveiro-meercedez5.jpg",
         ],
       },
-    ]
+    ],
   },
   {    
     id: "Personalizados",
@@ -357,7 +351,7 @@ export const catalog: Category[] = [
           "/produtos/chaveiro5.jpg",
         ],
       },
-    ]
+    ],
   },
   {    
     id: "copa",
@@ -387,7 +381,7 @@ export const catalog: Category[] = [
           "/produtos/Caixa-pequena2.jpg",
           "/produtos/Caixa-pequena3.jpg",
         ],
-      }
+      },
       {
         id: "combo",
         title: "1 Caixa Para Figurinhas - Pequena + 1 Caixa Para Figurinhas - Pequena",
@@ -425,7 +419,7 @@ export const catalog: Category[] = [
           "/produtos/Caixa-pequenap2.jpg",
           "/produtos/Caixa-pequenap3.jpg",
         ],
-      }
+      },
       {
         id: "chaveiro-taça",
         title: "Chaveiro Taça",
@@ -437,8 +431,8 @@ export const catalog: Category[] = [
           "/produtos/Chaveirotaça2.jpg",
           "/produtos/Chaveirotaça3.jpg",
         ],
-      }
-    ]
+      },
+    ],
   },
   {    
     id: "maes",
@@ -505,8 +499,8 @@ export const catalog: Category[] = [
           "/produtos/coracao3.jpg",
         ],
       },
-    ]
-  }
+    ],
+  },
 ];
 
 export function getCategoryById(categoryId: string) {
