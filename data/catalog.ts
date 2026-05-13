@@ -341,27 +341,27 @@ export const catalog: Category[] = [
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
         images: [
           "/produtos/chaveiro1.jpg",
-          "/produtos/chaveiro2.jpg",
-          "/produtos/chaveiro3.jpg",
+          "/produtos/chaveiro2.jpeg",
+          "/produtos/chaveiro3.jpeg",
         ],
       },
       {
-        id: "chaveiro-personalizado",
+        id: "chaveiro-italico",
         title: "Chaveiro Itálico",
         price: "R$ 20",
         description:
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
         images: [
-          "/produtos/chaveiro4.jpg",        ],
+          "/produtos/chaveiro4.jpeg",        ],
       },
       {
-        id: "chaveiro-personalizado",
+        id: "chaveiro-disney",
         title: "Chaveiro Disney",
         price: "R$ 20",
         description:
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
         images: [
-          "/produtos/chaveiro5.jpg",
+          "/produtos/chaveiro5.jpeg",
         ],
       },
       {
