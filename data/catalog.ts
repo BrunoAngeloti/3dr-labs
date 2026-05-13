@@ -82,7 +82,6 @@ export const catalog: Category[] = [
           description:
             "Anjo decorativo em impressão 3D, com detalhes vazados e acabamento translúcido. Ideal para decoração, presentes, lembranças religiosas ou ambientes de paz e espiritualidade.",
           images: [
-            "/produtos/Anjo-decorativo2.jpg",
             "/produtos/Anjo-decorativo3.jpg",
             "/produtos/Anjo-decorativo4.jpg",
             "/produtos/Anjo-decorativo5.jpg",
@@ -152,9 +151,7 @@ export const catalog: Category[] = [
         images: [
           "/produtos/suporte-sm-simples.jpg",
           "/produtos/suporte-sm-simples2.jpg",
-          "/produtos/suporte-sm-simples3.jpg",
           "/produtos/suporte-sm-simples4.jpg",
-          "/produtos/suporte-sm-simples5.jpg",
           "/produtos/suporte-sm-simples8.jpg",
         ],
       },
@@ -179,8 +176,7 @@ export const catalog: Category[] = [
           "Organização e estilo em uma peça só. Inspirado na armadura do Homem de Ferro, este suporte acomoda seu controle com segurança e adiciona um visual marcante ao seu setup. Ideal para fãs de tecnologia, games e do universo Marvel.",
         images: [
           "/produtos/suporte-hf3.jpg",
-          "/produtos/suporte-hf9.jpg",
-          "/produtos/suporte-hf8.jpg",
+          "/produtos/suporte-hf7.jpg",
         ],
       },
       {
@@ -192,7 +188,6 @@ export const catalog: Category[] = [
         images: [
           "/produtos/suporte-ipad.jpg",
           "/produtos/suporte-ipad2.jpg",
-          "/produtos/suporte-ipad4.jpg",
           "/produtos/suporte-ipad6.jpg",
           "/produtos/suporte-ipad11.jpg",
         ],
@@ -205,10 +200,7 @@ export const catalog: Category[] = [
           "Organize seu setup com estilo. Este suporte para controle mantém seu joystick protegido, sempre acessível e ainda valoriza sua mesa com um visual geométrico moderno e diferenciado.",
         images: [
           "/produtos/suporte-cristais.jpg",
-          "/produtos/suporte-cristais2.jpg",
-          "/produtos/suporte-cristais3.jpg",
           "/produtos/suporte-cristais4.jpg",
-          "/produtos/suporte-cristais5.jpg",
         ],
       },
       {
@@ -240,7 +232,6 @@ export const catalog: Category[] = [
           "/katana3.jpg",
           "/katana5.jpg",
           "/katana7.jpg",
-          "/katana4.jpg",
         ],
       },
     ],
@@ -284,7 +275,6 @@ export const catalog: Category[] = [
           "/produtos/Chaveiro-meercedez2.jpg",
           "/produtos/Chaveiro-meercedez3.jpg",
           "/produtos/Chaveiro-meercedez4.jpg",
-          "/produtos/Chaveiro-meercedez5.jpg",
         ],
       },
     ],
@@ -305,7 +295,6 @@ export const catalog: Category[] = [
           "/produtos/letreiro-personalizado2.jpg",
           "/produtos/letreiro-personalizado3.jpg",
           "/produtos/letreiro-personalizado4.jpg",
-          "/produtos/letreiro-personalizado5.jpg",
         ],
       },
       {
@@ -401,7 +390,6 @@ export const catalog: Category[] = [
           "/produtos/Caixa-grande.jpg",
           "/produtos/Caixa-grande2.jpg",
           "/produtos/Caixa-pequena1.jpeg",
-          "/produtos/Caixa-pequena2.jpeg",
         ],
       },
        {
