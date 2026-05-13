@@ -342,7 +342,7 @@ export const catalog: Category[] = [
         images: [
           "/produtos/chaveiro1.jpg",
           "/produtos/chaveiro2.jpeg",
-          "/produtos/chaveiro3.jpeg",
+          "/produtos/chaveiro5.jpeg",
         ],
       },
       {
