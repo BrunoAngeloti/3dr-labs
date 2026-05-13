@@ -21,6 +21,215 @@ export const store = {
 };
 
 export const catalog: Category[] = [
+    {    
+    id: "copa",
+    title: "Especial Copa do Mundo",  
+    image: "/produtos/caixas.jpeg",
+    products: [
+      {
+        id: "caixa-grande",
+        title: "Caixa Para Figurinhas - Grande",
+        price: "R$ 40",
+        description:
+          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
+        images: [
+          "/produtos/Caixa-grande.jpg",
+          "/produtos/Caixa-grande2.jpg",
+          "/produtos/Caixa-grande3.jpg",
+        ],
+      },
+      {
+        id: "caixa-pequena",
+        title: "Caixa Para Figurinhas - Pequena",
+        price: "R$ 20",
+        description:
+          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
+        images: [
+          "/produtos/Caixa-pequena1.jpeg",
+          "/produtos/Caixa-pequena2.jpeg",
+          "/produtos/Caixa-pequena3.jpeg",
+        ],
+      },
+      {
+        id: "combo",
+        title: "1 Caixa Para Figurinhas - Pequena + 1 Caixa Para Figurinhas - Pequena",
+        price: "R$ 55",
+        description:
+          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
+        images: [
+          "/produtos/caixas.jpeg",
+          "/produtos/Caixa-grande.jpg",
+          "/produtos/Caixa-grande2.jpg",
+          "/produtos/Caixa-pequena1.jpeg",
+        ],
+      },
+       {
+        id: "caixa-grande-personalizada",
+        title: "Caixa Para Figurinhas - Grande com Nome",
+        price: "R$ 45",
+        description:
+          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
+        images: [
+          "/produtos/Caixa-grandep.jpg",
+          "/produtos/Caixa-grandep2.jpg",
+          "/produtos/Caixa-grandep3.jpg",
+        ],
+      },
+      {
+        id: "caixa-pequena",
+        title: "Caixa Para Figurinhas - Pequena com Nome",
+        price: "R$ 25",
+        description:
+          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
+        images: [
+          "/produtos/Caixa-pequenap.jpeg",
+          "/produtos/Caixa-pequenap2.jpeg",
+          "/produtos/Caixa-pequenap3.jpeg",
+        ],
+      },
+      {
+        id: "chaveiro-taça",
+        title: "Chaveiro Taça",
+        price: "R$ 20",
+        description:
+          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
+        images: [
+          "/produtos/Chaveirotaça.jpg",
+          "/produtos/Chaveirotaça2.jpg",
+          "/produtos/Chaveirotaça3.jpg",
+        ],
+      },
+    ],
+  },
+  {    
+    id: "maes",
+    title: "Especial Dia das Mães",  
+    image: "/produtos/maecap.jpg",
+    products: [
+      {
+        id: "latreiro",
+        title: "Letreiro: Mãe, Eu Te Amo",
+        price: "R$ 40",
+        description:
+          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
+        images: [
+          "/produtos/maeteamo.jpg",
+        ],
+      },
+      {
+        id: "moldura",
+        title: "Moldura Dia das Mães",
+        price: "R$ 45",
+        description:
+          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
+        images: [
+          "/produtos/moldura.jpg",
+          "/produtos/moldura2.jpg",
+        ],
+      },
+      {
+        id: "melhormaedomundo",
+        title: "Letreiro: Melhor Mãe do Mundo",
+        price: "R$ 35",
+        description:
+          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
+        images: [
+          "/produtos/melhormae.jpg",
+        ],
+      },
+      {
+        id: "chaveiroiloveu",
+        title: "Chaveiro: I Love You",
+        price: "R$ 15",
+        description:
+          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
+        images: [
+          "/produtos/iloveu.jpg",
+        ],
+      },
+      {
+        id: "chaveirocoracao",
+        title: "Chaveiro Coração: Nome Personalizado",
+        price: "R$ 20",
+        description:
+          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
+        images: [
+          "/produtos/chaveiro5.jpeg",
+        ],
+      },
+    ],
+  },
+  {    
+    id: "Personalizados",
+    title: "Artigos Personalizados",  
+    image: "/produtos/seu-boneco-personalizado.png",
+    products: [
+      {
+        id: "letreiro-nome-personalizado",
+        title: "Letreiro Nome Personalizado",
+        price: "R$ 30",
+        description:
+          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
+        images: [
+          "/produtos/letreiro-personalizado.jpg",
+          "/produtos/letreiro-personalizado2.jpg",
+          "/produtos/letreiro-personalizado3.jpg",
+          "/produtos/letreiro-personalizado4.jpg",
+        ],
+      },
+      {
+        id: "seu-boneco-personalizado",
+        title: "Seu Boneco Personalizado",
+        price: "R$ 65",
+        description:
+          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
+        images: [
+          "/produtos/seu-boneco-personalizado.png",
+        ],
+      },
+      {
+        id: "chaveiro-personalizado",
+        title: "Chaveiro Flor/Estrela/Coração",
+        price: "R$ 20",
+        description:
+          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
+        images: [
+          "/produtos/chaveiro1.jpg",
+          "/produtos/chaveiro2.jpeg",
+          "/produtos/chaveiro5.jpeg",
+        ],
+      },
+      {
+        id: "chaveiro-italico",
+        title: "Chaveiro Itálico",
+        price: "R$ 20",
+        description:
+          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
+        images: [
+          "/produtos/chaveiro4.jpeg",        ],
+      },
+      {
+        id: "chaveiro-disney",
+        title: "Chaveiro Disney",
+        price: "R$ 20",
+        description:
+          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
+        images: [
+          "/produtos/chaveiroalice.jpeg",
+        ],
+      },
+      {
+        id: "letreiro-nome",
+        title: "Letreiro Nome - Disney",
+        price: "R$ 35",
+        description:
+          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
+        images: [
+          "/produtos/Letreironome.jpeg",
+        ],
+      },
+    ],
+  },
   {
     id: "bonecos-croche",
     title: "Bonecos Crochê",
@@ -275,215 +484,6 @@ export const catalog: Category[] = [
           "/produtos/Chaveiro-meercedez2.jpg",
           "/produtos/Chaveiro-meercedez3.jpg",
           "/produtos/Chaveiro-meercedez4.jpg",
-        ],
-      },
-    ],
-  },
-  {    
-    id: "Personalizados",
-    title: "Artigos Personalizados",  
-    image: "/produtos/seu-boneco-personalizado.png",
-    products: [
-      {
-        id: "letreiro-nome-personalizado",
-        title: "Letreiro Nome Personalizado",
-        price: "R$ 30",
-        description:
-          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
-        images: [
-          "/produtos/letreiro-personalizado.jpg",
-          "/produtos/letreiro-personalizado2.jpg",
-          "/produtos/letreiro-personalizado3.jpg",
-          "/produtos/letreiro-personalizado4.jpg",
-        ],
-      },
-      {
-        id: "seu-boneco-personalizado",
-        title: "Seu Boneco Personalizado",
-        price: "R$ 65",
-        description:
-          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
-        images: [
-          "/produtos/seu-boneco-personalizado.png",
-        ],
-      },
-      {
-        id: "chaveiro-personalizado",
-        title: "Chaveiro Flor/Estrela/Coração",
-        price: "R$ 20",
-        description:
-          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
-        images: [
-          "/produtos/chaveiro1.jpg",
-          "/produtos/chaveiro2.jpeg",
-          "/produtos/chaveiro5.jpeg",
-        ],
-      },
-      {
-        id: "chaveiro-italico",
-        title: "Chaveiro Itálico",
-        price: "R$ 20",
-        description:
-          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
-        images: [
-          "/produtos/chaveiro4.jpeg",        ],
-      },
-      {
-        id: "chaveiro-disney",
-        title: "Chaveiro Disney",
-        price: "R$ 20",
-        description:
-          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
-        images: [
-          "/produtos/chaveiroalice.jpeg",
-        ],
-      },
-      {
-        id: "letreiro-nome",
-        title: "Letreiro Nome - Disney",
-        price: "R$ 35",
-        description:
-          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
-        images: [
-          "/produtos/Letreironome.jpeg",
-        ],
-      },
-    ],
-  },
-  {    
-    id: "copa",
-    title: "Especial Copa do Mundo",  
-    image: "/produtos/caixas.jpeg",
-    products: [
-      {
-        id: "caixa-grande",
-        title: "Caixa Para Figurinhas - Grande",
-        price: "R$ 40",
-        description:
-          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
-        images: [
-          "/produtos/Caixa-grande.jpg",
-          "/produtos/Caixa-grande2.jpg",
-          "/produtos/Caixa-grande3.jpg",
-        ],
-      },
-      {
-        id: "caixa-pequena",
-        title: "Caixa Para Figurinhas - Pequena",
-        price: "R$ 20",
-        description:
-          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
-        images: [
-          "/produtos/Caixa-pequena1.jpeg",
-          "/produtos/Caixa-pequena2.jpeg",
-          "/produtos/Caixa-pequena3.jpeg",
-        ],
-      },
-      {
-        id: "combo",
-        title: "1 Caixa Para Figurinhas - Pequena + 1 Caixa Para Figurinhas - Pequena",
-        price: "R$ 55",
-        description:
-          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
-        images: [
-          "/produtos/caixas.jpeg",
-          "/produtos/Caixa-grande.jpg",
-          "/produtos/Caixa-grande2.jpg",
-          "/produtos/Caixa-pequena1.jpeg",
-        ],
-      },
-       {
-        id: "caixa-grande-personalizada",
-        title: "Caixa Para Figurinhas - Grande com Nome",
-        price: "R$ 45",
-        description:
-          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
-        images: [
-          "/produtos/Caixa-grandep.jpg",
-          "/produtos/Caixa-grandep2.jpg",
-          "/produtos/Caixa-grandep3.jpg",
-        ],
-      },
-      {
-        id: "caixa-pequena",
-        title: "Caixa Para Figurinhas - Pequena com Nome",
-        price: "R$ 25",
-        description:
-          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
-        images: [
-          "/produtos/Caixa-pequenap.jpeg",
-          "/produtos/Caixa-pequenap2.jpeg",
-          "/produtos/Caixa-pequenap3.jpeg",
-        ],
-      },
-      {
-        id: "chaveiro-taça",
-        title: "Chaveiro Taça",
-        price: "R$ 20",
-        description:
-          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
-        images: [
-          "/produtos/Chaveirotaça.jpg",
-          "/produtos/Chaveirotaça2.jpg",
-          "/produtos/Chaveirotaça3.jpg",
-        ],
-      },
-    ],
-  },
-  {    
-    id: "maes",
-    title: "Especial Dia das Mães",  
-    image: "/produtos/maecap.jpg",
-    products: [
-      {
-        id: "latreiro",
-        title: "Letreiro: Mãe, Eu Te Amo",
-        price: "R$ 40",
-        description:
-          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
-        images: [
-          "/produtos/maeteamo.jpg",
-        ],
-      },
-      {
-        id: "moldura",
-        title: "Moldura Dia das Mães",
-        price: "R$ 45",
-        description:
-          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
-        images: [
-          "/produtos/moldura.jpg",
-          "/produtos/moldura2.jpg",
-        ],
-      },
-      {
-        id: "melhormaedomundo",
-        title: "Letreiro: Melhor Mãe do Mundo",
-        price: "R$ 35",
-        description:
-          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
-        images: [
-          "/produtos/melhormae.jpg",
-        ],
-      },
-      {
-        id: "chaveiroiloveu",
-        title: "Chaveiro: I Love You",
-        price: "R$ 15",
-        description:
-          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
-        images: [
-          "/produtos/iloveu.jpg",
-        ],
-      },
-      {
-        id: "chaveirocoracao",
-        title: "Chaveiro Coração: Nome Personalizado",
-        price: "R$ 20",
-        description:
-          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
-        images: [
-          "/produtos/chaveiro5.jpeg",
         ],
       },
     ],
