@@ -335,18 +335,38 @@ export const catalog: Category[] = [
       },
       {
         id: "chaveiro-personalizado",
-        title: "Chaveiro Personalizado",
+        title: "Chaveiro Flor/Estrela/Coração",
         price: "R$ 20",
         description:
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
         images: [
           "/produtos/chaveiro1.jpg",
           "/produtos/chaveiro2.jpg",
+          "/produtos/chaveiro3.jpg",
+        ],
+      },
+      {
+        id: "chaveiro-personalizado",
+        title: "Chaveiro Itálico",
+        price: "R$ 20",
+        description:
+          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
+        images: [
+          "/produtos/chaveiro4.jpg",        ],
+      },
+      {
+        id: "chaveiro-personalizado",
+        title: "Chaveiro Disney",
+        price: "R$ 20",
+        description:
+          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
+        images: [
+          "/produtos/chaveiro5.jpg",
         ],
       },
       {
         id: "letreiro-nome",
-        title: "Letreiro Nome Personalizado",
+        title: "Letreiro Nome - Disney",
         price: "R$ 35",
         description:
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
