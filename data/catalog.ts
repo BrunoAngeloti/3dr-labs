@@ -82,11 +82,11 @@ export const catalog: Category[] = [
           description:
             "Anjo decorativo em impressão 3D, com detalhes vazados e acabamento translúcido. Ideal para decoração, presentes, lembranças religiosas ou ambientes de paz e espiritualidade.",
           images: [
-            "/produtos/Anjo-decorativo.jpg",
             "/produtos/Anjo-decorativo2.jpg",
             "/produtos/Anjo-decorativo3.jpg",
             "/produtos/Anjo-decorativo4.jpg",
             "/produtos/Anjo-decorativo5.jpg",
+            "/produtos/Anjo-decorativo6.jpg",
           ],
         },
      {
@@ -97,7 +97,6 @@ export const catalog: Category[] = [
           "Marque suas leituras com fé e significado. Este marca-página personalizado para Crisma traz o símbolo do Espírito Santo, representando um momento especial na caminhada cristã. Perfeito como lembrança da celebração ou presente para familiares e padrinhos. Produzido em impressão 3D com ótimo acabamento e possibilidade de personalização com nome e data.",
         images: [
           "/produtos/marca-pagina-crisma.jpeg",
-          "/produtos/marca-pagina-crisma2.jpeg",
           "/produtos/marca-pagina-crisma3.jpeg",
         ],
       },
@@ -109,10 +108,8 @@ export const catalog: Category[] = [
           "Delicada e elegante, esta escultura prismática da Santa Virgem Maria transforma devoção em decoração sofisticada. Ideal para altares, quartos ou ambientes de oração, com acabamento artístico que chama atenção em qualquer espaço.",
         images: [
           "/produtos/maria-prismatica.jpg",
-          "/produtos/maria-prismatica2.jpg",
-          "/produtos/maria-prismatica3.jpg",
           "/produtos/maria-prismatica4.jpg",
-          "/produtos/maria-prismatica5.jpg",
+          "/produtos/maria-prismatica11.jpg",
         ],
       },
       {
@@ -122,11 +119,10 @@ export const catalog: Category[] = [
         description:
         "Uma peça decorativa única que une fé e arte em um design moderno prismático. Rica em detalhes e produzida em PLA dourada, é perfeita para decorar ambientes, presentear ou trazer um toque especial de espiritualidade para seu espaço.",
         images: [
-          "/produtos/jesus-prismatico.jpg",
+          "/produtos/jesus-prismatico1.jpg",
           "/produtos/jesus-prismatico2.jpg",
-          "/produtos/jesus-prismatico3.jpg",
-          "/produtos/jesus-prismatico4.jpg",
-          "/produtos/jesus-prismatico5.jpg",
+          "/produtos/jesus-prismatico6.jpg",
+          "/produtos/jesus-prismatico8.jpg",
         ],
       },
       {
@@ -159,6 +155,7 @@ export const catalog: Category[] = [
           "/produtos/suporte-sm-simples3.jpg",
           "/produtos/suporte-sm-simples4.jpg",
           "/produtos/suporte-sm-simples5.jpg",
+          "/produtos/suporte-sm-simples8.jpg",
         ],
       },
       {
@@ -168,11 +165,10 @@ export const catalog: Category[] = [
         description:
           "Leve mais personalidade para seu setup com este suporte inspirado no Homem-Aranha. Além de manter seu controle organizado e protegido, ele funciona como peça decorativa para fãs da Marvel, com design criativo que destaca qualquer mesa gamer.",
         images: [
-          "/produtos/suporte-sm-teia.jpg",
           "/produtos/suporte-sm-teia2.jpg",
           "/produtos/suporte-sm-teia3.jpg",
-          "/produtos/suporte-sm-teia4.jpg",
-          "/produtos/suporte-sm-teia5.jpg",
+          "/produtos/suporte-sm-teia6.jpg",
+          "/produtos/suporte-sm-teia9.jpg",
         ],
       },
       {
@@ -182,11 +178,9 @@ export const catalog: Category[] = [
         description:
           "Organização e estilo em uma peça só. Inspirado na armadura do Homem de Ferro, este suporte acomoda seu controle com segurança e adiciona um visual marcante ao seu setup. Ideal para fãs de tecnologia, games e do universo Marvel.",
         images: [
-          "/produtos/suporte-hf.jpg",
-          "/produtos/suporte-hf2.jpg",
           "/produtos/suporte-hf3.jpg",
-          "/produtos/suporte-hf4.jpg",
-          "/produtos/suporte-hf5.jpg",
+          "/produtos/suporte-hf9.jpg",
+          "/produtos/suporte-hf8.jpg",
         ],
       },
       {
@@ -198,9 +192,9 @@ export const catalog: Category[] = [
         images: [
           "/produtos/suporte-ipad.jpg",
           "/produtos/suporte-ipad2.jpg",
-          "/produtos/suporte-ipad3.jpg",
           "/produtos/suporte-ipad4.jpg",
-          "/produtos/suporte-ipad5.jpg",
+          "/produtos/suporte-ipad6.jpg",
+          "/produtos/suporte-ipad11.jpg",
         ],
       },
       {
@@ -225,10 +219,7 @@ export const catalog: Category[] = [
           "Mantenha sua mesa organizada e seus dispositivos sempre à mão. Este suporte foi projetado para acomodar seu celular com estabilidade enquanto também serve como apoio para fones de ouvido, evitando bagunça e protegendo seus acessórios. Com design moderno e compacto, é perfeito para mesas de estudo, trabalho ou setup gamer. Produzido em impressão 3D de alta qualidade, é resistente, funcional e combina com qualquer ambiente.",
         images: [
           "/produtos/suporte-cf.jpg",
-          "/produtos/suporte-cf2.jpg",
-          "/produtos/suporte-cf3.jpg",
           "/produtos/suporte-cf4.jpg",
-          "/produtos/suporte-cf5.jpg",
         ],
       },
     ],
@@ -246,10 +237,10 @@ export const catalog: Category[] = [
           "Leve para sua coleção a força e o estilo de um dos personagens mais marcantes dos animes. Esta katana inspirada em Inosuke é uma peça decorativa cheia de personalidade, perfeita para fãs, colecionadores ou para compor seu setup geek. Produzida em impressão 3D, possui design detalhado e acabamento que destaca o visual único da espada. Ideal para decoração, cosplay ou exposição.",
         images: [
           "/katana.jpg",
-          "/katana2.jpg",
           "/katana3.jpg",
-          "/katana4.jpg",
           "/katana5.jpg",
+          "/katana7.jpg",
+          "/katana4.jpg",
         ],
       },
     ],
@@ -266,8 +257,7 @@ export const catalog: Category[] = [
         description:
           "Uma miniatura inspirada nos carros de Fórmula 1, perfeita para fãs de automobilismo e velocidade. Com design detalhado e visual moderno, é ideal para decorar mesas, estantes, setups ou coleções. Produzido em impressão 3D de alta qualidade, combina estilo, personalidade e acabamento impecável.",
         images: [
-          "/produtos/miniatura-f1.jpg",
-          "/produtos/miniatura-f12.jpg",
+          "/produtos/miniatura-f11.jpg",
           "/produtos/miniatura-f13.jpg",
           "/produtos/miniatura-f14.jpg",
         ],
@@ -280,12 +270,7 @@ export const catalog: Category[] = [
           "Uma peça decorativa perfeita para fãs de automobilismo e velocidade. Inspirada no universo da Fórmula 1, esta logo traz um visual moderno e marcante para setups, mesas, quartos ou coleções. Produzida em impressão 3D com ótimo acabamento, é ideal para adicionar personalidade e um toque esportivo ao ambiente.",
         images: [
           "/produtos/LLogo-F!d.jpg",
-          "/produtos/LLogo-F!d2.jpg",
-          "/produtos/LLogo-F!d3.jpg",
-          "/produtos/LLogo-F!d4.jpg",
-          "/produtos/LLogo-F!d5.jpg",
           "/produtos/LLogo-F!d6.jpg",
-          "/produtos/LLogo-F!d7.jpg",
         ],
       },
       {
@@ -470,8 +455,6 @@ export const catalog: Category[] = [
           "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
         images: [
           "/produtos/maeteamo.jpg",
-          "/produtos/maeteamo2.jpg",
-          "/produtos/maeteamo3.jpg",
         ],
       },
       {
@@ -483,7 +466,6 @@ export const catalog: Category[] = [
         images: [
           "/produtos/moldura.jpg",
           "/produtos/moldura2.jpg",
-          "/produtos/moldura3.jpg",
         ],
       },
       {
@@ -494,8 +476,6 @@ export const catalog: Category[] = [
           "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
         images: [
           "/produtos/melhormae.jpg",
-          "/produtos/melhormae2.jpg",
-          "/produtos/melhormae3.jpg",
         ],
       },
       {
@@ -506,8 +486,6 @@ export const catalog: Category[] = [
           "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
         images: [
           "/produtos/iloveu.jpg",
-          "/produtos/iloveu2.jpg",
-          "/produtos/iloveu3.jpg",
         ],
       },
       {
