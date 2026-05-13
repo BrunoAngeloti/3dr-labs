@@ -206,7 +206,10 @@ export const catalog: Category[] = [
         description:
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
         images: [
-          "/produtos/chaveiro4.jpeg",        ],
+          "/produtos/chaveiro4.jpeg",
+         "/produtos/italico1.jpeg",  
+         "/produtos/italico2.jpeg",  
+        ],
       },
       {
         id: "chaveiro-disney",
@@ -216,6 +219,8 @@ export const catalog: Category[] = [
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
         images: [
           "/produtos/chaveiroalice.jpeg",
+          "/produtos/disney2.jpeg",
+          "/produtos/disney3.jpeg",
         ],
       },
       {
@@ -226,6 +231,28 @@ export const catalog: Category[] = [
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
         images: [
           "/produtos/Letreironome.jpeg",
+        ],
+      },
+      {
+        id: "chaveiro-honeycomb",
+        title: "Chavereiro - Colmeia",
+        price: "R$ 35",
+        description:
+          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
+        images: [
+          "/produtos/colmeia1.jpeg",
+          "/produtos/colmeia2.jpeg",
+        ],
+      },
+      {
+        id: "chaveiro-letra",
+        title: "Chavereiro - Letra em Autorelevo",
+        price: "R$ 35",
+        description:
+          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
+        images: [
+          "/produtos/relevo1.jpeg",
+          "/produtos/relevo2.jpeg",
         ],
       },
     ],
