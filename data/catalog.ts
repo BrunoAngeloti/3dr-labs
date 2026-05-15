@@ -227,9 +227,7 @@ export const catalog: Category[] = [
         description:
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
         images: [
-          "/produtos/chaveiroalice.jpg",
-          "/produtos/disney2.jpg",
-          "/produtos/disney3.jpg",
+          "/produtos/disney4.jpg",
         ],
       },
       {
@@ -444,6 +442,18 @@ export const catalog: Category[] = [
         images: [
           "/produtos/suporte-cristais.jpg",
           "/produtos/suporte-cristais4.jpg",
+        ],
+      },
+      {
+        id: "suporte-ps5",
+        title: "Suporte Duplo Para Controles",
+        price: "R$ 35",
+        description:
+          "Organize seu setup com estilo. Este suporte para controle mantém seu joystick protegido, sempre acessível e ainda valoriza sua mesa com um visual geométrico moderno e diferenciado.",
+        images: [
+          "/produtos/suporte-duplo.jpeg",
+          "/produtos/suporte-duplo1.jpeg",
+          "/produtos/suporte-duplo2.jpeg",
         ],
       },
       {
