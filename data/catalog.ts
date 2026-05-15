@@ -187,6 +187,43 @@ export const catalog: Category[] = [
         ],
       },
       {
+        id: "letreiro-nome",
+        title: "Letreiro Nome - Disney",
+        price: "R$ 35",
+        description:
+          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
+        images: [
+          "/produtos/Letreironome.jpeg",
+        ],
+      },
+    ],
+  },
+  {    
+    id: "Chaveiros-p",
+    title: "Chaveiros Personalizados",  
+    image: "/produtos/seu-boneco-personalizado.png",
+    products: [
+      {
+        id: "chaveiro-honeycomb",
+        title: "Chavereiro - Colmeia",
+        price: "R$ 35",
+        description:
+          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
+        images: [
+          "/produtos/colmeia1.jpg",
+        ],
+      },
+      {
+        id: "chaveiro-letra",
+        title: "Chavereiro - Letra em Autorelevo",
+        price: "R$ 35",
+        description:
+          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
+        images: [
+          "/produtos/relevo3.jpg",
+        ],
+      },
+      {
         id: "chaveiro-nome",
         title: "Chaveiro Nome Simples",
         price: "R$ 20",
@@ -230,38 +267,7 @@ export const catalog: Category[] = [
           "/produtos/disney4.jpg",
         ],
       },
-      {
-        id: "letreiro-nome",
-        title: "Letreiro Nome - Disney",
-        price: "R$ 35",
-        description:
-          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
-        images: [
-          "/produtos/Letreironome.jpeg",
-        ],
-      },
-      {
-        id: "chaveiro-honeycomb",
-        title: "Chavereiro - Colmeia",
-        price: "R$ 35",
-        description:
-          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
-        images: [
-          "/produtos/colmeia1.jpg",
-        ],
-      },
-      {
-        id: "chaveiro-letra",
-        title: "Chavereiro - Letra em Autorelevo",
-        price: "R$ 35",
-        description:
-          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
-        images: [
-          "/produtos/relevo3.jpg",
-        ],
-      },
-    ],
-  },
+    },
   {
     id: "bonecos-croche",
     title: "Bonecos Crochê",
