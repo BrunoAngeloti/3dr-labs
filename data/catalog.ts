@@ -76,7 +76,7 @@ export const catalog: Category[] = [
         ],
       },
       {
-        id: "caixa-pequena",
+        id: "caixa-pequena-personalizada",
         title: "Caixa Para Figurinhas - Pequena com Nome",
         price: "R$ 25",
         description:
