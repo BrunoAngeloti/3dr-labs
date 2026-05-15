@@ -188,6 +188,19 @@ export const catalog: Category[] = [
         ],
       },
       {
+        id: "chaveiro-nome",
+        title: "Chaveiro Nome Simples",
+        price: "R$ 20",
+        description:
+          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
+        images: [
+          "/produtos/chaveiro1.jpg",
+          "/produtos/chaveiro2.jpeg",
+          "/produtos/chaveiro5.jpeg",
+          "/produtos/chaveiroc.jpg",
+        ],
+      },
+      {
         id: "chaveiro-personalizado",
         title: "Chaveiro Flor/Estrela/Coração",
         price: "R$ 20",
@@ -197,6 +210,7 @@ export const catalog: Category[] = [
           "/produtos/chaveiro1.jpg",
           "/produtos/chaveiro2.jpeg",
           "/produtos/chaveiro5.jpeg",
+          "/produtos/chaveiroc.jpg",
         ],
       },
       {
@@ -241,7 +255,6 @@ export const catalog: Category[] = [
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
         images: [
           "/produtos/colmeia1.jpeg",
-          "/produtos/colmeia2.jpeg",
         ],
       },
       {
