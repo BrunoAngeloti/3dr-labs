@@ -82,9 +82,8 @@ export const catalog: Category[] = [
         description:
           "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
         images: [
-          "/produtos/Caixa-pequenap.jpeg",
-          "/produtos/Caixa-pequenap2.jpeg",
-          "/produtos/Caixa-pequenap3.jpeg",
+          "/produtos/Caixa-pequenap.jpg",
+          "/produtos/Caixa-pequenap2.jpg",
         ],
       },
       {
@@ -194,10 +193,7 @@ export const catalog: Category[] = [
         description:
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
         images: [
-          "/produtos/chaveiro1.jpg",
-          "/produtos/chaveiro2.jpeg",
-          "/produtos/chaveiro5.jpeg",
-          "/produtos/chaveiroc.jpg",
+          "/produtos/chaveirosimples.jpg",
         ],
       },
       {
@@ -221,8 +217,7 @@ export const catalog: Category[] = [
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
         images: [
           "/produtos/chaveiro4.jpeg",
-         "/produtos/italico1.jpeg",  
-         "/produtos/italico2.jpeg",  
+         "/produtos/italico3.jpg",  
         ],
       },
       {
@@ -232,9 +227,9 @@ export const catalog: Category[] = [
         description:
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
         images: [
-          "/produtos/chaveiroalice.jpeg",
-          "/produtos/disney2.jpeg",
-          "/produtos/disney3.jpeg",
+          "/produtos/chaveiroalice.jpg",
+          "/produtos/disney2.jpg",
+          "/produtos/disney3.jpg",
         ],
       },
       {
@@ -254,7 +249,7 @@ export const catalog: Category[] = [
         description:
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
         images: [
-          "/produtos/colmeia1.jpeg",
+          "/produtos/colmeia1.jpg",
         ],
       },
       {
@@ -264,8 +259,7 @@ export const catalog: Category[] = [
         description:
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
         images: [
-          "/produtos/relevo1.jpeg",
-          "/produtos/relevo2.jpeg",
+          "/produtos/relevo3.jpg",
         ],
       },
     ],
