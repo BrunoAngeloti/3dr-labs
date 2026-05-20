@@ -46,8 +46,8 @@ export const catalog: Category[] = [
         description:
           "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
         images: [
-          "/produtos/Caixa-taça.jpg",
-          "/produtos/Caixa-taça2.jpg",
+          "/produtos/caixa-taça.jpg",
+          "/produtos/caixa-taça2.jpg",
         ],
       },
       {
@@ -59,7 +59,7 @@ export const catalog: Category[] = [
         images: [
           "/produtos/Caixa-granden.jpg",
           "/produtos/Caixa-granden2.jpg",
-          "/produtos/Caixa-granden3.jpg",
+          "/produtos/caixa-granden3.jpg",
           "/produtos/Caixa-grande.jpg",
 
         ],
@@ -71,10 +71,10 @@ export const catalog: Category[] = [
         description:
           "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
         images: [
-          "/produtos/Caixa-pequenan1.jpeg",
-          "/produtos/Caixa-pequenan2.jpeg",
-          "/produtos/Caixa-pequenan3.jpeg",
-          "/produtos/Caixa-pequena4.jpeg",
+          "/produtos/caixa-pequenan1.jpeg",
+          "/produtos/caixa-pequenan2.jpeg",
+          "/produtos/caixa-pequenan3.jpeg",
+          "/produtos/caixa-pequena4.jpeg",
         ],
       },
       {
