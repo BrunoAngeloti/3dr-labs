@@ -40,7 +40,7 @@ export const catalog: Category[] = [
         ],
       },
       {
-        id: "caixa-taça",
+        id: "caixa-taca",
         title: "Caixa Para Figurinhas - Especial Taça",
         price: "R$ 50",
         description:
@@ -71,10 +71,10 @@ export const catalog: Category[] = [
         description:
           "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
         images: [
-          "/produtos/caixa-pequenan1.jpeg",
-          "/produtos/caixa-pequenan2.jpeg",
-          "/produtos/caixa-pequenan3.jpeg",
-          "/produtos/caixa-pequena4.jpeg",
+          "/produtos/caixa-pequenan1.jpg",
+          "/produtos/caixa-pequenan2.jpg",
+          "/produtos/caixa-pequenan3.jpg",
+          "/produtos/caixa-pequena4.jpg",
         ],
       },
       {
