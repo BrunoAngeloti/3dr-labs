@@ -294,7 +294,8 @@ export const catalog: Category[] = [
           "/produtos/disney4.jpg",
         ],
       },
-    },
+    ]
+  },
   {
     id: "bonecos-croche",
     title: "Bonecos Crochê",
