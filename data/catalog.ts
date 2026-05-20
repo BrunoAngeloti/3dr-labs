@@ -73,8 +73,8 @@ export const catalog: Category[] = [
         images: [
           "/produtos/caixa-pequenan1.jpg",
           "/produtos/caixa-pequenan2.jpg",
-          "/produtos/caixa-pequenan3.jpg",
-          "/produtos/caixa-pequena4.jpg",
+          "/produtos/Caixa-pequenan3.jpg",
+          "/produtos/Caixa-pequena4.jpg",
         ],
       },
       {
