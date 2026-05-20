@@ -24,7 +24,7 @@ export const catalog: Category[] = [
     {    
     id: "copa",
     title: "Especial Copa do Mundo",  
-    image: "/produtos/neymar.jpeg",
+    image: "/produtos/neymar.jpg",
     products: [
       {
         id: "caixa-neymar",
