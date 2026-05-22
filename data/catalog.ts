@@ -176,8 +176,9 @@ export const catalog: Category[] = [
           "/produtos/ursoderosas.jpg",
         ],
       },
-    },
-    {    
+    ],
+  },
+  {    
     id: "copa",
     title: "Especial Copa do Mundo",  
     image: "/produtos/neymar.jpg",
