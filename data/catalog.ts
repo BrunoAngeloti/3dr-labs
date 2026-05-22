@@ -22,6 +22,165 @@ export const store = {
 
 export const catalog: Category[] = [
     {    
+    id: "dianamorados",
+    title: "Especial Dia dos Namorados",  
+    image: "/produtos/namo.jpg",
+    products: [ 
+       {
+        id: "ursinho",
+        title: "Ursinho do Amor",
+        price: "R$ 35",
+        description: ""
+        images: [
+          "/produtos/ursoamor.jpg",
+          "/produtos/ursoamor2.jpg",
+        ],
+      },
+      {
+        id: "cartaamor",
+        title: "Carta de Amor",
+        price: "R$ 25",
+        description: ""
+        images: [
+          "/produtos/cartaamor.jpg",
+        ],
+      },
+      {
+        id: "Legodoamor",
+        title: "Lego do Amor",
+        price: "R$ 60",
+        description: ""
+        images: [
+          "/produtos/legoamor.jpg",
+        ],
+      },
+      {
+        id: "polaroidiloveu",
+        title: "Polaroid I Love U",
+        price: "R$ 20",
+        description: ""
+        images: [
+          "/produtos/polaroidlove.jpg",
+        ],
+      },
+      {
+        id: "Gatinhoapai",
+        title: "Gatinho Apaixonado",
+        price: "R$ 25",
+        description: ""
+        images: [
+          "/produtos/gatinhoapai.jpg",
+        ],
+      },
+      {
+        id: "molduraspot",
+        title: "Gatinho Apaixonado",
+        price: "R$ 25",
+        description: ""
+        images: [
+          "/produtos/molduraspoti.jpg",
+        ],
+      },
+      {
+        id: "diadosnamosss",
+        title: "Dia dos Namorados",
+        price: "R$ 50",
+        description: ""
+        images: [
+          "/produtos/diadosnamo.jpg",
+          "/produtos/diadosnamo2.jpg",
+        ],
+      },
+      {
+        id: "Rosa4ever",
+        title: "Rosa For Ever",
+        price: "R$ 50",
+        description: ""
+        images: [
+          "/produtos/rosa4ever.jpg",
+        ],
+      },
+      {
+        id: "molduralove",
+        title: "Moldura Love",
+        price: "R$ 30",
+        description: ""
+        images: [
+          "/produtos/molduralov.jpg",
+          "/produtos/molduralov2.jpg",
+          "/produtos/molduralov2.jpg",
+        ],
+      },
+      {
+        id: "MolduradoAmor",
+        title: "Moldura do Amor - Personalizável",
+        price: "R$ 50",
+        description: ""
+        images: [
+          "/produtos/molduradoamor.jpg",
+          "/produtos/molduradoamor2.jpg",
+          "/produtos/molduradoamor3.jpg",
+        ],
+      },
+      {
+        id: "molduracorac",
+        title: "Moldura Coração",
+        price: "R$ 60",
+        description: ""
+        images: [
+          "/produtos/molduracorac.jpg",
+        ],
+      },
+      {
+        id: "Leetrirodoamor",
+        title: "Letreiro do Amor",
+        price: "R$ 30",
+        description: ""
+        images: [
+          "/produtos/letreiroamor.jpg",
+        ],
+      },
+      {
+        id: "rosacaixa",
+        title: "Rosa na Caixa",
+        price: "R$ 40",
+        description: ""
+        images: [
+          "/produtos/rosanacaixa.jpg",
+          "/produtos/rosanacaixa2.jpg",
+        ],
+      },
+      {
+        id: "lumináriaflor",
+        title: "Luminária Flor",
+        price: "R$ 40",
+        description: ""
+        images: [
+          "/produtos/lumiflor.jpg",
+        ],
+      },
+      {
+        id: "marcapaginaamor",
+        title: "Marca Página - Coração",
+        price: "R$ 15",
+        description: ""
+        images: [
+          "/produtos/marcapaginaamor.jpg",
+          "/produtos/marcapaginaamor2.jpg",
+        ],
+      },
+      {
+        id: "ursoderosas",
+        title: "Urso de Rosas",
+        price: "R$ 60",
+        description: ""
+        images: [
+          "/produtos/ursoderosas.jpg",
+          "/produtos/ursoderosas2.jpg",
+        ],
+      },
+    },
+    {    
     id: "copa",
     title: "Especial Copa do Mundo",  
     image: "/produtos/neymar.jpg",
