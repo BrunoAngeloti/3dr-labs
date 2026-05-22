@@ -279,7 +279,7 @@ export const catalog: Category[] = [
         ],
       },
       {
-        id: "chaveiro-taça",
+        id: "chaveiro-taca",
         title: "Chaveiro Taça",
         price: "R$ 20",
         description:
@@ -287,7 +287,6 @@ export const catalog: Category[] = [
         images: [
           "/produtos/Chaveirotaça.jpg",
           "/produtos/Chaveirotaça2.jpg",
-          "/produtos/Chaveirotaça3.jpg",
         ],
       },
     ],
