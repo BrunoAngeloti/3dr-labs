@@ -108,7 +108,7 @@ export const catalog: Category[] = [
         images: [
           "/produtos/molduralov.jpg",
           "/produtos/molduralov2.jpg",
-          "/produtos/molduralov2.jpg",
+          "/produtos/molduralov3.jpg",
         ],
       },
       {
@@ -119,7 +119,6 @@ export const catalog: Category[] = [
         images: [
           "/produtos/molduradoamor.jpg",
           "/produtos/molduradoamor2.jpg",
-          "/produtos/molduradoamor3.jpg",
         ],
       },
       {
@@ -166,7 +165,6 @@ export const catalog: Category[] = [
         description: ""
         images: [
           "/produtos/marcapaginaamor.jpg",
-          "/produtos/marcapaginaamor2.jpg",
         ],
       },
       {
@@ -176,7 +174,6 @@ export const catalog: Category[] = [
         description: ""
         images: [
           "/produtos/ursoderosas.jpg",
-          "/produtos/ursoderosas2.jpg",
         ],
       },
     },
