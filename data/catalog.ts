@@ -188,12 +188,34 @@ export const catalog: Category[] = [
         title: "Caixa Para Figurinhas - Especial Neymar JR",
         price: "R$ 55",
         description:
-          "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
+          "",
         images: [
           "/produtos/neymar.jpg",
           "/produtos/neymar2.jpg",
           "/produtos/neymar3.jpg",
           "/produtos/neymar4.jpg",
+        ],
+      },
+      {
+        id: "caixa-cr7",
+        title: "Caixa Para Figurinhas - Especial Cristiano Ronaldo",
+        price: "R$ 55",
+        description:
+          "",
+        images: [
+          "/produtos/cr7.jpg",
+          "/produtos/cr72.jpg",
+        ],
+      },
+      {
+        id: "caixa-messi",
+        title: "Caixa Para Figurinhas - Especial Messi",
+        price: "R$ 55",
+        description:
+          "",
+        images: [
+          "/produtos/messi.jpg",
+          "/produtos/messi2.jpg",
         ],
       },
       {
