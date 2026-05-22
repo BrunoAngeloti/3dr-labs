@@ -27,7 +27,7 @@ export const catalog: Category[] = [
     image: "/produtos/namo.png",
     products: [ 
        {
-        id: "ursinho",
+        id: "ursoamor",
         title: "Ursinho do Amor",
         price: "R$ 35",
         description: "",
