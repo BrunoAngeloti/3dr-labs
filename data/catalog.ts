@@ -371,7 +371,7 @@ export const catalog: Category[] = [
   {    
     id: "Chaveiros-p",
     title: "Chaveiros Personalizados",  
-    image: "/produtos/seu-boneco-personalizado.png",
+    image: "/produtos/chaveiro1.jpg",
     products: [
       {
         id: "chaveiro-honeycomb",
