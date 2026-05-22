@@ -32,8 +32,8 @@ export const catalog: Category[] = [
         price: "R$ 35",
         description: "",
         images: [
-          "/produtos/ursoamor.jpg",
-          "/produtos/ursoamor2.jpg",
+          "/produtos/ursoamor.png",
+          "/produtos/ursoamor2.png",
         ],
       },
       {
@@ -42,7 +42,7 @@ export const catalog: Category[] = [
         price: "R$ 25",
         description: "",
         images: [
-          "/produtos/cartaamor.jpg",
+          "/produtos/cartaamor.png",
         ],
       },
       {
