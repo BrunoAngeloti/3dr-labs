@@ -24,7 +24,7 @@ export const catalog: Category[] = [
     {    
     id: "dianamorados",
     title: "Especial Dia dos Namorados",  
-    image: "/produtos/namo.jpg",
+    image: "/produtos/namo.png",
     products: [ 
        {
         id: "ursinho",
@@ -51,7 +51,7 @@ export const catalog: Category[] = [
         price: "R$ 60",
         description: "",
         images: [
-          "/produtos/legoamor.jpg",
+          "/produtos/legoamor.png",
         ],
       },
       {
@@ -60,7 +60,7 @@ export const catalog: Category[] = [
         price: "R$ 20",
         description: "",
         images: [
-          "/produtos/polaroidlove.jpg",
+          "/produtos/polaroidlove.png",
         ],
       },
       {
@@ -69,7 +69,7 @@ export const catalog: Category[] = [
         price: "R$ 25",
         description: "",
         images: [
-          "/produtos/gatinhoapai.jpg",
+          "/produtos/gatinhoapai.png",
         ],
       },
       {
@@ -78,7 +78,7 @@ export const catalog: Category[] = [
         price: "R$ 25",
         description: "",
         images: [
-          "/produtos/molduraspoti.jpg",
+          "/produtos/molduraspoti.png",
         ],
       },
       {
@@ -87,8 +87,8 @@ export const catalog: Category[] = [
         price: "R$ 50",
         description: "",
         images: [
-          "/produtos/diadosnamo.jpg",
-          "/produtos/diadosnamo2.jpg",
+          "/produtos/diadosnamo.png",
+          "/produtos/diadosnamo2.png",
         ],
       },
       {
@@ -97,7 +97,7 @@ export const catalog: Category[] = [
         price: "R$ 50",
         description: "",
         images: [
-          "/produtos/rosa4ever.jpg",
+          "/produtos/rosa4ever.png",
         ],
       },
       {
@@ -106,9 +106,9 @@ export const catalog: Category[] = [
         price: "R$ 30",
         description: "",
         images: [
-          "/produtos/molduralov.jpg",
-          "/produtos/molduralov2.jpg",
-          "/produtos/molduralov3.jpg",
+          "/produtos/molduralov.png",
+          "/produtos/molduralov2.png",
+          "/produtos/molduralov3.png",
         ],
       },
       {
@@ -117,8 +117,8 @@ export const catalog: Category[] = [
         price: "R$ 50",
         description: "",
         images: [
-          "/produtos/molduradoamor.jpg",
-          "/produtos/molduradoamor2.jpg",
+          "/produtos/molduradoamor.png",
+          "/produtos/molduradoamor2.png",
         ],
       },
       {
@@ -127,7 +127,7 @@ export const catalog: Category[] = [
         price: "R$ 60",
         description: "",
         images: [
-          "/produtos/molduracorac.jpg",
+          "/produtos/molduracorac.png",
         ],
       },
       {
@@ -136,7 +136,7 @@ export const catalog: Category[] = [
         price: "R$ 30",
         description: "",
         images: [
-          "/produtos/letreiroamor.jpg",
+          "/produtos/letreiroamor.png",
         ],
       },
       {
@@ -145,8 +145,8 @@ export const catalog: Category[] = [
         price: "R$ 40",
         description: "",
         images: [
-          "/produtos/rosanacaixa.jpg",
-          "/produtos/rosanacaixa2.jpg",
+          "/produtos/rosanacaixa.png",
+          "/produtos/rosanacaixa2.png",
         ],
       },
       {
@@ -155,7 +155,7 @@ export const catalog: Category[] = [
         price: "R$ 40",
         description: "",
         images: [
-          "/produtos/lumiflor.jpg",
+          "/produtos/lumiflor.png",
         ],
       },
       {
@@ -164,7 +164,7 @@ export const catalog: Category[] = [
         price: "R$ 15",
         description: "",
         images: [
-          "/produtos/marcapaginaamor.jpg",
+          "/produtos/marcapaginaamor.png",
         ],
       },
       {
@@ -173,7 +173,7 @@ export const catalog: Category[] = [
         price: "R$ 60",
         description: "",
         images: [
-          "/produtos/ursoderosas.jpg",
+          "/produtos/ursoderosas.png",
         ],
       },
     ],
