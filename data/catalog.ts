@@ -150,7 +150,7 @@ export const catalog: Category[] = [
         ],
       },
       {
-        id: "lumináriaflor",
+        id: "luminariaflor",
         title: "Luminária Flor",
         price: "R$ 40",
         description: "",
