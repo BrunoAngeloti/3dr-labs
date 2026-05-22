@@ -281,7 +281,7 @@ export const catalog: Category[] = [
       {
         id: "chaveiro-taca",
         title: "Chaveiro Taça",
-        price: "R$ 20",
+        price: "R$ 15",
         description:
           "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
         images: [
