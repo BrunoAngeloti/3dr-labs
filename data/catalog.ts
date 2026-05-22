@@ -30,7 +30,7 @@ export const catalog: Category[] = [
         id: "ursinho",
         title: "Ursinho do Amor",
         price: "R$ 35",
-        description: ""
+        description: "",
         images: [
           "/produtos/ursoamor.jpg",
           "/produtos/ursoamor2.jpg",
@@ -40,7 +40,7 @@ export const catalog: Category[] = [
         id: "cartaamor",
         title: "Carta de Amor",
         price: "R$ 25",
-        description: ""
+        description: "",
         images: [
           "/produtos/cartaamor.jpg",
         ],
@@ -49,7 +49,7 @@ export const catalog: Category[] = [
         id: "Legodoamor",
         title: "Lego do Amor",
         price: "R$ 60",
-        description: ""
+        description: "",
         images: [
           "/produtos/legoamor.jpg",
         ],
@@ -58,7 +58,7 @@ export const catalog: Category[] = [
         id: "polaroidiloveu",
         title: "Polaroid I Love U",
         price: "R$ 20",
-        description: ""
+        description: "",
         images: [
           "/produtos/polaroidlove.jpg",
         ],
@@ -67,7 +67,7 @@ export const catalog: Category[] = [
         id: "Gatinhoapai",
         title: "Gatinho Apaixonado",
         price: "R$ 25",
-        description: ""
+        description: "",
         images: [
           "/produtos/gatinhoapai.jpg",
         ],
@@ -76,7 +76,7 @@ export const catalog: Category[] = [
         id: "molduraspot",
         title: "Gatinho Apaixonado",
         price: "R$ 25",
-        description: ""
+        description: "",
         images: [
           "/produtos/molduraspoti.jpg",
         ],
@@ -85,7 +85,7 @@ export const catalog: Category[] = [
         id: "diadosnamosss",
         title: "Dia dos Namorados",
         price: "R$ 50",
-        description: ""
+        description: "",
         images: [
           "/produtos/diadosnamo.jpg",
           "/produtos/diadosnamo2.jpg",
@@ -95,7 +95,7 @@ export const catalog: Category[] = [
         id: "Rosa4ever",
         title: "Rosa For Ever",
         price: "R$ 50",
-        description: ""
+        description: "",
         images: [
           "/produtos/rosa4ever.jpg",
         ],
@@ -104,7 +104,7 @@ export const catalog: Category[] = [
         id: "molduralove",
         title: "Moldura Love",
         price: "R$ 30",
-        description: ""
+        description: "",
         images: [
           "/produtos/molduralov.jpg",
           "/produtos/molduralov2.jpg",
@@ -115,7 +115,7 @@ export const catalog: Category[] = [
         id: "MolduradoAmor",
         title: "Moldura do Amor - Personalizável",
         price: "R$ 50",
-        description: ""
+        description: "",
         images: [
           "/produtos/molduradoamor.jpg",
           "/produtos/molduradoamor2.jpg",
@@ -125,7 +125,7 @@ export const catalog: Category[] = [
         id: "molduracorac",
         title: "Moldura Coração",
         price: "R$ 60",
-        description: ""
+        description: "",
         images: [
           "/produtos/molduracorac.jpg",
         ],
@@ -134,7 +134,7 @@ export const catalog: Category[] = [
         id: "Leetrirodoamor",
         title: "Letreiro do Amor",
         price: "R$ 30",
-        description: ""
+        description: "",
         images: [
           "/produtos/letreiroamor.jpg",
         ],
@@ -143,7 +143,7 @@ export const catalog: Category[] = [
         id: "rosacaixa",
         title: "Rosa na Caixa",
         price: "R$ 40",
-        description: ""
+        description: "",
         images: [
           "/produtos/rosanacaixa.jpg",
           "/produtos/rosanacaixa2.jpg",
@@ -153,7 +153,7 @@ export const catalog: Category[] = [
         id: "lumináriaflor",
         title: "Luminária Flor",
         price: "R$ 40",
-        description: ""
+        description: "",
         images: [
           "/produtos/lumiflor.jpg",
         ],
@@ -162,7 +162,7 @@ export const catalog: Category[] = [
         id: "marcapaginaamor",
         title: "Marca Página - Coração",
         price: "R$ 15",
-        description: ""
+        description: "",
         images: [
           "/produtos/marcapaginaamor.jpg",
         ],
@@ -171,7 +171,7 @@ export const catalog: Category[] = [
         id: "ursoderosas",
         title: "Urso de Rosas",
         price: "R$ 60",
-        description: ""
+        description: "",
         images: [
           "/produtos/ursoderosas.jpg",
         ],
