@@ -24,7 +24,7 @@ export const catalog: Category[] = [
     {    
     id: "dianamorados",
     title: "Especial Dia dos Namorados",  
-    image: "/produtos/namo.png",
+    image: "/produtos/ursoamor.png",
     products: [ 
        {
         id: "ursoamor",
