@@ -730,6 +730,38 @@ export const catalog: Category[] = [
       },
     ],
   },
+  {    
+    id: "encomendas",
+    title: "Encomendas Personalizadas",  
+    image: "/capa.jpg",
+    products: [
+      {
+        id: "placa-timao",
+        title: "Placa Escudos - Corinthians",
+        price: "R$ 40",
+        description:
+          "",
+        images: [
+          "/produtos/placa.jpg",
+          "/produtos/placa2.jpg",
+        ],
+      },
+       {
+        id: "personagens",
+        title: "Personagens para Decoração",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+          "/produtos/pikachu.jpg",
+          "/produtos/hellokitty.jpg",
+          "/produtos/bixinho.jpg",
+
+        ],
+      },
+    ],
+  },
 ];
 
 export function getCategoryById(categoryId: string) {
