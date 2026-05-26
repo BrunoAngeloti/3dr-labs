@@ -186,7 +186,7 @@ export const catalog: Category[] = [
       {
         id: "caixa-neymar",
         title: "Caixa Para Figurinhas - Especial Neymar JR",
-        price: "R$ 55",
+        price: "R$ 50",
         description:
           "",
         images: [
@@ -199,7 +199,7 @@ export const catalog: Category[] = [
       {
         id: "caixa-cr7",
         title: "Caixa Para Figurinhas - Especial Cristiano Ronaldo",
-        price: "R$ 55",
+        price: "R$ 50",
         description:
           "",
         images: [
@@ -210,7 +210,7 @@ export const catalog: Category[] = [
       {
         id: "caixa-messi",
         title: "Caixa Para Figurinhas - Especial Messi",
-        price: "R$ 55",
+        price: "R$ 50",
         description:
           "",
         images: [
@@ -221,7 +221,7 @@ export const catalog: Category[] = [
       {
         id: "caixa-taca",
         title: "Caixa Para Figurinhas - Especial Taça",
-        price: "R$ 55",
+        price: "R$ 45",
         description:
           "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
         images: [
@@ -232,7 +232,7 @@ export const catalog: Category[] = [
       {
         id: "caixa-granden",
         title: "Caixa Para Figurinhas - Grande",
-        price: "R$ 50",
+        price: "R$ 40",
         description:
           "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
         images: [
@@ -258,7 +258,7 @@ export const catalog: Category[] = [
        {
         id: "caixa-grande-personalizada",
         title: "Caixa Para Figurinhas - Grande com Nome",
-        price: "R$ 55",
+        price: "R$ 40",
         description:
           "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
         images: [
@@ -270,7 +270,7 @@ export const catalog: Category[] = [
       {
         id: "caixa-pequena-personalizada",
         title: "Caixa Para Figurinhas - Pequena com Nome",
-        price: "R$ 30",
+        price: "R$ 25",
         description:
           "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
         images: [
@@ -281,7 +281,7 @@ export const catalog: Category[] = [
       {
         id: "chaveiro-taca",
         title: "Chaveiro Taça",
-        price: "R$ 15",
+        price: "R$ 10",
         description:
           "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
         images: [
