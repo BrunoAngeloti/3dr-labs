@@ -733,7 +733,7 @@ export const catalog: Category[] = [
   {    
     id: "encomendas",
     title: "Encomendas Personalizadas",  
-    image: "/capa.jpg",
+    image: "/mariarosa.jpg",
     products: [
       {
         id: "placa-timao",
