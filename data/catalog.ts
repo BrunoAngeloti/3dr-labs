@@ -21,7 +21,53 @@ export const store = {
 };
 
 export const catalog: Category[] = [
-    {    
+   {    
+    id: "brindes",
+    title: "Brindes Personalizados",  
+    image: "/produtos/ursoamor.png",
+    products: [ 
+       {
+        id: "PortaCelular",
+        title: "Suporte para Celular",
+        price: "Faça Seu Orçamento",
+        description: "",
+        images: [
+          "/produtos/portacll.jpg",
+        ],
+      },
+      {
+        id: "ChaveiroLogo",
+        title: "Chaveiro Logo",
+        price: "Faça Seu Orçamento",
+        description: "",
+        images: [
+          "/produtos/chaveirologo1.jpg",
+          "/produtos/chaveirologo2.jpg",
+        ],
+      },
+      {
+        id: "Chaveiro Giratório",
+        title: "Chaveiro Giratório",
+        price: "Faça Seu Orçamento",
+        description: "",
+        images: [
+          "/produtos/giratório.jpg",
+          "/produtos/giratório2.jpg",
+        ],
+      },
+      {
+        id: "Abridoreslata",
+        title: "Abridores de Lata",
+        price: "Faça Seu Orçamento",
+        description: "",
+        images: [
+          "/produtos/hellokittya.jpg",
+          "/produtos/beijoa.jpg",
+        ],
+      },
+    ],
+  },
+  {    
     id: "dianamorados",
     title: "Especial Dia dos Namorados",  
     image: "/produtos/ursoamor.png",
