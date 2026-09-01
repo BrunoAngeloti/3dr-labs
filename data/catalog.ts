@@ -437,9 +437,45 @@ export const catalog: Category[] = [
     title: "Personagens Clássicos Crochê",  
     image: "/produtos/ursoamor.png",
     products: [ 
-       {
+      {
+        id: "harrycro",
+        title: "Harry Potter (Crochê)",
+        price: "Faça Seu Orçamento",
+        description: "",
+        images: [
+          "/produtos/portacll.jpg",
+        ],
+      },
+      {
+        id: "mermionecro",
+        title: "Hermione Granger (Crochê)",
+        price: "Faça Seu Orçamento",
+        description: "",
+        images: [
+          "/produtos/portacll.jpg",
+        ],
+      },
+      {
+        id: "ronycro",
+        title: "Rony Weasley (Crochê)",
+        price: "Faça Seu Orçamento",
+        description: "",
+        images: [
+          "/produtos/portacll.jpg",
+        ],
+      },
+      {
         id: "mariocro",
         title: "Mario (Crochê)",
+        price: "Faça Seu Orçamento",
+        description: "",
+        images: [
+          "/produtos/portacll.jpg",
+        ],
+      },
+      {
+        id: "estrelaariocro",
+        title: "Estrela Super Mário (Crochê)",
         price: "Faça Seu Orçamento",
         description: "",
         images: [
@@ -621,6 +657,24 @@ export const catalog: Category[] = [
       {
         id: "monstrosacro",
         title: "Mike Wazowski (Crochê)",
+        price: "",
+        description: "",
+        images: [
+          "/produtos/giratório.jpg",
+        ],
+      },
+      {
+        id: "biscoitotoycro",
+        title: "Homem de Gengibre Toy Story (Crochê)",
+        price: "",
+        description: "",
+        images: [
+          "/produtos/giratório.jpg",
+        ],
+      },
+      {
+        id: "grinchcro",
+        title: "Grinch (Crochê)",
         price: "",
         description: "",
         images: [
