@@ -270,7 +270,6 @@ export const catalog: Category[] = [
           "/produtos/panda-croche.jpg",
         ],
       },
-      },
       {
         id: "vegetacro",
         title: "Vegeta (Crochê)",
