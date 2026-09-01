@@ -67,183 +67,6 @@ export const catalog: Category[] = [
       },
     ],
   },
-  {    
-    id: "pokebola",
-    title: "Pokebolas",  
-    image: "/produtos/mariarosa.jpg",
-    products: [
-      {
-        id: "placa-timao",
-        title: "Placa Escudos - Corinthians",
-        price: "R$ 40",
-        description:
-          "",
-        images: [
-          "/produtos/placa.jpg",
-          "/produtos/placa2.jpg",
-        ],
-      },
-       {
-        id: "personagens",
-        title: "Personagens para Decoração",
-        price: "R$ 20",
-        description:
-          "",
-        images: [
-          "/produtos/mariarosa.jpg",
-          "/produtos/pikachu.jpg",
-          "/produtos/hellokitty.jpg",
-          "/produtos/bixinho.jpg",
-
-        ],
-      },
-    ],
-  },
-  {
-    id: "bonecos-croche",
-    title: "Personagens Crochê",
-    image: "/produtos/bonecos-croche/categoria.png",
-    products: [
-      {
-        id: "banguela-croche",
-        title: "Banguela - Como Treinar Seu Dragão (Crochê)",
-        price: "R$ 30",
-        description:
-          "Inspirado em Como Treinar Seu Dragão, este Banguela em estilo crochê combina fofura e criatividade em uma peça única. Ideal para decorar mesas, nichos e setups, ou presentear fãs do dragão mais querido do cinema. Produzido em impressão 3D, é um item colecionável cheio de personalidade e charme.",
-        images: [
-          "/produtos/banguela-croche.jpg",
-          "/produtos/banguela-croche2.jpg",
-          "/produtos/banguela-croche3.jpg",
-          "/produtos/banguela-croche4.jpg",
-          "/produtos/banguela-croche5.jpg",
-         ],
-      },
-      {
-        id: "esquilo-croche",
-        title: "Esquilo (Crochê)",
-        price: "R$ 30",
-        description:
-          "Uma peça decorativa cheia de charme que une o visual delicado do crochê com a criatividade da impressão 3D. Perfeito para decorar mesas, nichos e estantes, ou presentear quem ama itens fofos, criativos e colecionáveis.",
-        images: [
-          "/produtos/Esquilo-croche.jpg",
-          "/produtos/Esquilo-croche2.jpg",
-          "/produtos/Esquilo-croche3.jpg",
-          "/produtos/Esquilo-croche4.jpg",
-          "/produtos/Esquilo-croche5.jpg",
-        ],
-      },
-      {
-        id: "urso-panda-croche",
-        title: "Urso Panda (Crochê)",
-        price: "R$ 30",
-        description:
-          "Uma peça decorativa charmosa que combina o visual delicado do crochê com a criatividade da impressão 3D. Ideal para decorar mesas, nichos ou presentear alguém que ama itens fofos e colecionáveis.",
-        images: [
-          "/produtos/panda-croche.jpg",
-          "/produtos/panda-croche2.jpg",
-          "/produtos/panda-croche3.jpg",
-          "/produtos/panda-croche4.jpg",
-          "/produtos/panda-croche5.jpg",
-        ],
-      },
-    ],
-  },
-  {    
-    id: "animaiscroche",
-    title: "Animais Crochê",  
-    image: "/produtos/mariarosa.jpg",
-    products: [
-      {
-        id: "placa-timao",
-        title: "Placa Escudos - Corinthians",
-        price: "R$ 40",
-        description:
-          "",
-        images: [
-          "/produtos/placa.jpg",
-          "/produtos/placa2.jpg",
-        ],
-      },
-       {
-        id: "personagens",
-        title: "Personagens para Decoração",
-        price: "R$ 20",
-        description:
-          "",
-        images: [
-          "/produtos/mariarosa.jpg",
-          "/produtos/pikachu.jpg",
-          "/produtos/hellokitty.jpg",
-          "/produtos/bixinho.jpg",
-
-        ],
-      },
-    ],
-  },
-  {    
-    id: "pokecroche",
-    title: "Pokemons Crochê",  
-    image: "/produtos/mariarosa.jpg",
-    products: [
-      {
-        id: "placa-timao",
-        title: "Placa Escudos - Corinthians",
-        price: "R$ 40",
-        description:
-          "",
-        images: [
-          "/produtos/placa.jpg",
-          "/produtos/placa2.jpg",
-        ],
-      },
-       {
-        id: "personagens",
-        title: "Personagens para Decoração",
-        price: "R$ 20",
-        description:
-          "",
-        images: [
-          "/produtos/mariarosa.jpg",
-          "/produtos/pikachu.jpg",
-          "/produtos/hellokitty.jpg",
-          "/produtos/bixinho.jpg",
-
-        ],
-      },
-    ],
-  },
-  {    
-    id: "potescroche",
-    title: "Potes Crochê",  
-    image: "/produtos/mariarosa.jpg",
-    products: [
-      {
-        id: "placa-timao",
-        title: "Placa Escudos - Corinthians",
-        price: "R$ 40",
-        description:
-          "",
-        images: [
-          "/produtos/placa.jpg",
-          "/produtos/placa2.jpg",
-        ],
-      },
-       {
-        id: "personagens",
-        title: "Personagens para Decoração",
-        price: "R$ 20",
-        description:
-          "",
-        images: [
-          "/produtos/mariarosa.jpg",
-          "/produtos/pikachu.jpg",
-          "/produtos/hellokitty.jpg",
-          "/produtos/bixinho.jpg",
-
-        ],
-      },
-    ],
-  },
   {
       id: "religiosos",
       title: "Religiosos",
@@ -398,6 +221,183 @@ export const catalog: Category[] = [
         images: [
           "/produtos/suporte-cf.jpg",
           "/produtos/suporte-cf4.jpg",
+        ],
+      },
+    ],
+  },
+  {
+    id: "bonecos-croche",
+    title: "Personagens Crochê",
+    image: "/produtos/bonecos-croche/categoria.png",
+    products: [
+      {
+        id: "banguela-croche",
+        title: "Banguela - Como Treinar Seu Dragão (Crochê)",
+        price: "R$ 30",
+        description:
+          "Inspirado em Como Treinar Seu Dragão, este Banguela em estilo crochê combina fofura e criatividade em uma peça única. Ideal para decorar mesas, nichos e setups, ou presentear fãs do dragão mais querido do cinema. Produzido em impressão 3D, é um item colecionável cheio de personalidade e charme.",
+        images: [
+          "/produtos/banguela-croche.jpg",
+          "/produtos/banguela-croche2.jpg",
+          "/produtos/banguela-croche3.jpg",
+          "/produtos/banguela-croche4.jpg",
+          "/produtos/banguela-croche5.jpg",
+         ],
+      },
+      {
+        id: "esquilo-croche",
+        title: "Esquilo (Crochê)",
+        price: "R$ 30",
+        description:
+          "Uma peça decorativa cheia de charme que une o visual delicado do crochê com a criatividade da impressão 3D. Perfeito para decorar mesas, nichos e estantes, ou presentear quem ama itens fofos, criativos e colecionáveis.",
+        images: [
+          "/produtos/Esquilo-croche.jpg",
+          "/produtos/Esquilo-croche2.jpg",
+          "/produtos/Esquilo-croche3.jpg",
+          "/produtos/Esquilo-croche4.jpg",
+          "/produtos/Esquilo-croche5.jpg",
+        ],
+      },
+      {
+        id: "urso-panda-croche",
+        title: "Urso Panda (Crochê)",
+        price: "R$ 30",
+        description:
+          "Uma peça decorativa charmosa que combina o visual delicado do crochê com a criatividade da impressão 3D. Ideal para decorar mesas, nichos ou presentear alguém que ama itens fofos e colecionáveis.",
+        images: [
+          "/produtos/panda-croche.jpg",
+          "/produtos/panda-croche2.jpg",
+          "/produtos/panda-croche3.jpg",
+          "/produtos/panda-croche4.jpg",
+          "/produtos/panda-croche5.jpg",
+        ],
+      },
+    ],
+  },
+  {    
+    id: "pokebola",
+    title: "Pokebolas",  
+    image: "/produtos/mariarosa.jpg",
+    products: [
+      {
+        id: "placa-timao",
+        title: "Placa Escudos - Corinthians",
+        price: "R$ 40",
+        description:
+          "",
+        images: [
+          "/produtos/placa.jpg",
+          "/produtos/placa2.jpg",
+        ],
+      },
+       {
+        id: "personagens",
+        title: "Personagens para Decoração",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+          "/produtos/pikachu.jpg",
+          "/produtos/hellokitty.jpg",
+          "/produtos/bixinho.jpg",
+
+        ],
+      },
+    ],
+  },
+  {    
+    id: "animaiscroche",
+    title: "Animais Crochê",  
+    image: "/produtos/mariarosa.jpg",
+    products: [
+      {
+        id: "placa-timao",
+        title: "Placa Escudos - Corinthians",
+        price: "R$ 40",
+        description:
+          "",
+        images: [
+          "/produtos/placa.jpg",
+          "/produtos/placa2.jpg",
+        ],
+      },
+       {
+        id: "personagens",
+        title: "Personagens para Decoração",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+          "/produtos/pikachu.jpg",
+          "/produtos/hellokitty.jpg",
+          "/produtos/bixinho.jpg",
+
+        ],
+      },
+    ],
+  },
+  {    
+    id: "pokecroche",
+    title: "Pokemons Crochê",  
+    image: "/produtos/mariarosa.jpg",
+    products: [
+      {
+        id: "placa-timao",
+        title: "Placa Escudos - Corinthians",
+        price: "R$ 40",
+        description:
+          "",
+        images: [
+          "/produtos/placa.jpg",
+          "/produtos/placa2.jpg",
+        ],
+      },
+       {
+        id: "personagens",
+        title: "Personagens para Decoração",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+          "/produtos/pikachu.jpg",
+          "/produtos/hellokitty.jpg",
+          "/produtos/bixinho.jpg",
+
+        ],
+      },
+    ],
+  },
+  {    
+    id: "potescroche",
+    title: "Potes Crochê",  
+    image: "/produtos/mariarosa.jpg",
+    products: [
+      {
+        id: "placa-timao",
+        title: "Placa Escudos - Corinthians",
+        price: "R$ 40",
+        description:
+          "",
+        images: [
+          "/produtos/placa.jpg",
+          "/produtos/placa2.jpg",
+        ],
+      },
+       {
+        id: "personagens",
+        title: "Personagens para Decoração",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+          "/produtos/pikachu.jpg",
+          "/produtos/hellokitty.jpg",
+          "/produtos/bixinho.jpg",
+
         ],
       },
     ],
