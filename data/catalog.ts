@@ -226,50 +226,406 @@ export const catalog: Category[] = [
     ],
   },
   {
-    id: "bonecos-croche",
-    title: "Personagens Crochê",
+    id: "animes-croche",
+    title: "Animes Crochê",
     image: "/produtos/bonecos-croche/categoria.png",
     products: [
       {
-        id: "banguela-croche",
-        title: "Banguela - Como Treinar Seu Dragão (Crochê)",
-        price: "R$ 30",
+        id: "Naruto-Crochê",
+        title: "Naruto (Crochê)",
+        price: "",
         description:
           "Inspirado em Como Treinar Seu Dragão, este Banguela em estilo crochê combina fofura e criatividade em uma peça única. Ideal para decorar mesas, nichos e setups, ou presentear fãs do dragão mais querido do cinema. Produzido em impressão 3D, é um item colecionável cheio de personalidade e charme.",
         images: [
           "/produtos/banguela-croche.jpg",
-          "/produtos/banguela-croche2.jpg",
-          "/produtos/banguela-croche3.jpg",
-          "/produtos/banguela-croche4.jpg",
-          "/produtos/banguela-croche5.jpg",
          ],
       },
       {
-        id: "esquilo-croche",
-        title: "Esquilo (Crochê)",
-        price: "R$ 30",
+        id: "Zenitsucro",
+        title: "Zenitsu (Crochê)",
+        price: "",
         description:
-          "Uma peça decorativa cheia de charme que une o visual delicado do crochê com a criatividade da impressão 3D. Perfeito para decorar mesas, nichos e estantes, ou presentear quem ama itens fofos, criativos e colecionáveis.",
+          "",
         images: [
           "/produtos/Esquilo-croche.jpg",
-          "/produtos/Esquilo-croche2.jpg",
-          "/produtos/Esquilo-croche3.jpg",
-          "/produtos/Esquilo-croche4.jpg",
-          "/produtos/Esquilo-croche5.jpg",
         ],
       },
       {
-        id: "urso-panda-croche",
-        title: "Urso Panda (Crochê)",
-        price: "R$ 30",
+        id: "luffycro",
+        title: "Luffy (Crochê)",
+        price: "",
         description:
-          "Uma peça decorativa charmosa que combina o visual delicado do crochê com a criatividade da impressão 3D. Ideal para decorar mesas, nichos ou presentear alguém que ama itens fofos e colecionáveis.",
+          "",
         images: [
           "/produtos/panda-croche.jpg",
-          "/produtos/panda-croche2.jpg",
-          "/produtos/panda-croche3.jpg",
-          "/produtos/panda-croche4.jpg",
-          "/produtos/panda-croche5.jpg",
+        ],
+      },
+      {
+        id: "gokucro",
+        title: "Goku (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/panda-croche.jpg",
+        ],
+      },
+      },
+      {
+        id: "vegetacro",
+        title: "Vegeta (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/panda-croche.jpg",
+        ],
+      },
+      {
+        id: "frieza",
+        title: "Golden Frieza (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/panda-croche.jpg",
+        ],
+      },
+      {
+        id: "makincro",
+        title: "Majim Boo (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/panda-croche.jpg",
+        ],
+      },
+      {
+        id: "Itachicro",
+        title: "Itachi (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/panda-croche.jpg",
+        ],
+      },
+      {
+        id: "jirayiacro",
+        title: "Jiraya (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/panda-croche.jpg",
+        ],
+      },
+      {
+        id: "inosukecro",
+        title: "Inosuke (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/panda-croche.jpg",
+        ],
+      },
+      {
+        id: "tanjirocro",
+        title: "Tanjiro (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/panda-croche.jpg",
+        ],
+      },
+      {
+        id: "nezuko",
+        title: "Nezuko (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/panda-croche.jpg",
+        ],
+      },
+      {
+        id: "Frankycro",
+        title: "Franky (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/panda-croche.jpg",
+        ],
+      },
+      {
+        id: "namicro",
+        title: "Nami (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/panda-croche.jpg",
+        ],
+      },
+      {
+        id: "Ussopcro",
+        title: "Usopp (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/panda-croche.jpg",
+        ],
+      },
+      {
+        id: "jinbecro",
+        title: "Jinbe (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/panda-croche.jpg",
+        ],
+      },
+      {
+        id: "Nicorobincro",
+        title: "Nico Robin (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/panda-croche.jpg",
+        ],
+      },
+      {
+        id: "Brookcro",
+        title: "Brook (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/panda-croche.jpg",
+        ],
+      },
+      {
+        id: "tonytonycro",
+        title: "Tony Tony Chopper (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/panda-croche.jpg",
+        ],
+      },
+      {
+        id: "Sanjycro",
+        title: "Sanji (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/panda-croche.jpg",
+        ],
+      },
+    ],
+  },
+  {    
+    id: "classicoscro",
+    title: "Personagens Clássicos Crochê",  
+    image: "/produtos/ursoamor.png",
+    products: [ 
+       {
+        id: "mariocro",
+        title: "Mario (Crochê)",
+        price: "Faça Seu Orçamento",
+        description: "",
+        images: [
+          "/produtos/portacll.jpg",
+        ],
+      },
+      {
+        id: "Stitchcro",
+        title: "Stitch (Crochê)",
+        price: "Faça Seu Orçamento",
+        description: "",
+        images: [
+          "/produtos/chaveirologo1.jpg",
+        ],
+      },
+      {
+        id: "Stitchrosacro",
+        title: "Stitch Rosa (Crochê)",
+        price: "Faça Seu Orçamento",
+        description: "",
+        images: [
+          "/produtos/chaveirologo1.jpg",
+        ],
+      },
+      {
+        id: "lilocro",
+        title: "Lilo (Stitch) (Crochê)",
+        price: "Faça Seu Orçamento",
+        description: "",
+        images: [
+          "/produtos/chaveirologo1.jpg",
+        ],
+      },
+      {
+        id: "Soniccro",
+        title: "Sonic (Crochê)",
+        price: "Faça Seu Orçamento",
+        description: "",
+        images: [
+          "/produtos/chaveirologo1.jpg",
+        ],
+      },
+      {
+        id: "taliscro",
+        title: "Talis (Crochê)",
+        price: "Faça Seu Orçamento",
+        description: "",
+        images: [
+          "/produtos/chaveirologo1.jpg",
+        ],
+      },
+      {
+        id: "dreggcro",
+        title: "Dr. Eggman (Crochê)",
+        price: "Faça Seu Orçamento",
+        description: "",
+        images: [
+          "/produtos/chaveirologo1.jpg",
+        ],
+      },
+      {
+        id: "silvercro",
+        title: "Silver (Crochê)",
+        price: "Faça Seu Orçamento",
+        description: "",
+        images: [
+          "/produtos/chaveirologo1.jpg",
+        ],
+      },
+      {
+        id: "Shadowcro",
+        title: "Shadow (Crochê)",
+        price: "Faça Seu Orçamento",
+        description: "",
+        images: [
+          "/produtos/chaveirologo1.jpg",
+        ],
+      },
+      {
+        id: "Supersoniccro",
+        title: "Super Sonic (Crochê)",
+        price: "Faça Seu Orçamento",
+        description: "",
+        images: [
+          "/produtos/chaveirologo1.jpg",
+        ],
+      },
+      {
+        id: "Amyrosecro",
+        title: "Amy Rose (Crochê)",
+        price: "Faça Seu Orçamento",
+        description: "",
+        images: [
+          "/produtos/chaveirologo1.jpg",
+        ],
+      },
+      {
+        id: "Knucklescro",
+        title: "Knuckles (Crochê)",
+        price: "Faça Seu Orçamento",
+        description: "",
+        images: [
+          "/produtos/chaveirologo1.jpg",
+        ],
+      },
+      {
+        id: "Banguelacro",
+        title: "Banguela (Crochê)",
+        price: "Faça Seu Orçamento",
+        description: "",
+        images: [
+          "/produtos/giratório.jpg",
+        ],
+      },
+      {
+        id: "Snoopycro",
+        title: "Snoopy (Crochê)",
+        price: "Faça Seu Orçamento",
+        description: "",
+        images: [
+          "/produtos/hellokittya.jpg",
+          "/produtos/beijoa.jpg",
+        ],
+      },
+      {
+        id: "Baymaxcro",
+        title: "Bay Max (Crochê)",
+        price: "",
+        description: "",
+        images: [
+          "/produtos/giratório.jpg",
+        ],
+      },
+      {
+        id: "minioncro",
+        title: "Minion (Crochê)",
+        price: "",
+        description: "",
+        images: [
+          "/produtos/giratório.jpg",
+        ],
+      },
+      {
+        id: "patrick",
+        title: "Patrick (Crochê)",
+        price: "",
+        description: "",
+        images: [
+          "/produtos/giratório.jpg",
+        ],
+      },
+      {
+        id: "mickeycro",
+        title: "Mickey (Crochê)",
+        price: "",
+        description: "",
+        images: [
+          "/produtos/giratório.jpg",
+        ],
+      },
+      {
+        id: "Yoshy",
+        title: "Yoshy (Crochê)",
+        price: "",
+        description: "",
+        images: [
+          "/produtos/giratório.jpg",
+        ],
+      },
+      {
+        id: "Bowsercro",
+        title: "Bowser (Crochê)",
+        price: "",
+        description: "",
+        images: [
+          "/produtos/giratório.jpg",
+        ],
+      },
+      {
+        id: "monstrosacro",
+        title: "Mike Wazowski (Crochê)",
+        price: "",
+        description: "",
+        images: [
+          "/produtos/giratório.jpg",
         ],
       },
     ],
