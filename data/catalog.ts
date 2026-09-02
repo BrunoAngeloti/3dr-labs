@@ -683,6 +683,104 @@ export const catalog: Category[] = [
       },
     ],
   },
+   {    
+    id: "herois croche",
+    title: "Super Heróis Crochê",  
+    image: "/produtos/mariarosa.jpg",
+    products: [
+      {
+        id: "supermancro",
+        title: "Superman (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/placa.jpg",
+          "/produtos/placa2.jpg",
+        ],
+      },
+       {
+        id: "batmancro",
+        title: "Batman (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "grootcro",
+        title: "Groot (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "hulkcro",
+        title: "Hulk (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "darthvadercro",
+        title: "Darth Vader (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Yodacro",
+        title: "Baby Yoda (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Stormtroopercro",
+        title: "Stormtrooper (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "droideBB-8cro",
+        title: "Droide BB-8 (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Mandalorianocro",
+        title: "Mandaloriano (Crochê)",
+        price: "",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+    ],
+  },
   {    
     id: "pokebola",
     title: "Pokebolas",  
@@ -753,28 +851,213 @@ export const catalog: Category[] = [
     image: "/produtos/mariarosa.jpg",
     products: [
       {
-        id: "placa-timao",
-        title: "Placa Escudos - Corinthians",
+        id: "caterpie",
+        title: "Caterpie (Crochê)",
         price: "R$ 40",
         description:
           "",
         images: [
           "/produtos/placa.jpg",
-          "/produtos/placa2.jpg",
         ],
       },
-       {
-        id: "personagens",
-        title: "Personagens para Decoração",
+      {
+        id: "gengarcro",
+        title: "Gengar (Crochê)",
         price: "R$ 20",
         description:
           "",
         images: [
           "/produtos/mariarosa.jpg",
-          "/produtos/pikachu.jpg",
-          "/produtos/hellokitty.jpg",
-          "/produtos/bixinho.jpg",
-
+        ],
+      },
+      {
+        id: "eveecro",
+        title: "Evee (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "charandercro",
+        title: "Charmander (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "pikachucro",
+        title: "Pikachu (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "pikachunatalcro",
+        title: "Pikachu Natal (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Squartlecro",
+        title: "Squartle (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+       {
+        id: "Bulbassaurocro",
+        title: "Bulbassauro (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Diglettcro",
+        title: "Diglett (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Jigglypuffcro",
+        title: "Jigglypuff (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "metapodcro",
+        title: "Metapod (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Psyduckcro",
+        title: "Psyduck (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "snorlaxcro",
+        title: "Snorlax (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Wartortlecro",
+        title: "Wartortle (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Togepicro",
+        title: "Togepi (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Bayleefcro",
+        title: "Bayleef (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Dittocro",
+        title: "Ditto (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Geodudecro",
+        title: "Geodude (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Omanytecro",
+        title: "Omanyte (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Voltorbcro",
+        title: "Voltorb (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "pokebolacro",
+        title: "pokebola (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
         ],
       },
     ],
