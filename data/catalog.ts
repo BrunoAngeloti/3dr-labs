@@ -819,28 +819,183 @@ export const catalog: Category[] = [
     image: "/produtos/mariarosa.jpg",
     products: [
       {
-        id: "placa-timao",
-        title: "Placa Escudos - Corinthians",
+        id: "dinossauro",
+        title: "Dinossauro (Crochê)",
         price: "R$ 40",
         description:
           "",
         images: [
           "/produtos/placa.jpg",
-          "/produtos/placa2.jpg",
         ],
       },
        {
-        id: "personagens",
-        title: "Personagens para Decoração",
+        id: "coalacro",
+        title: "Coala (Crochê)",
         price: "R$ 20",
         description:
           "",
         images: [
           "/produtos/mariarosa.jpg",
-          "/produtos/pikachu.jpg",
-          "/produtos/hellokitty.jpg",
-          "/produtos/bixinho.jpg",
-
+        ],
+      },
+      {
+        id: "dragãocro",
+        title: "Dragão (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "UrsoPolarcro",
+        title: "Urso Polar (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "coelhocro ",
+        title: "Coelho (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "elefantecro",
+        title: "Elefante (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "renacro",
+        title: "Rena (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "aranhacro",
+        title: "Aranha (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Gatocro",
+        title: "Gato (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Vacacro",
+        title: "Vaca (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Girafacro",
+        title: "Girafa (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+       {
+        id: "Vacacro",
+        title: "Vaca (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+       {
+        id: "hipopotaocro",
+        title: "Hipopotamo (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+       {
+        id: "Cachorrocro",
+        title: "Cachorro (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+       {
+        id: "rinocerrontecro",
+        title: "Rinocerronte (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+       {
+        id: "porcocro",
+        title: "Porco (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+       {
+        id: "Vacacro",
+        title: "Vaca (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+       {
+        id: "Vacacro",
+        title: "Vaca (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
         ],
       },
     ],
