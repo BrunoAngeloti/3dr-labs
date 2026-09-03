@@ -1778,28 +1778,143 @@ export const catalog: Category[] = [
     image: "/produtos/mariarosa.jpg",
     products: [
       {
-        id: "placa-timao",
-        title: "Placa Escudos - Corinthians",
+        id: "potepresentecro",
+        title: "Caixa Presente (Crochê)",
         price: "R$ 40",
         description:
           "",
         images: [
           "/produtos/placa.jpg",
-          "/produtos/placa2.jpg",
+        ],
+      },
+      {
+        id: "caixapresentecro",
+        title: "Caixa Presente 2 (Crochê)",
+        price: "R$ 40",
+        description:
+          "",
+        images: [
+          "/produtos/placa.jpg",
         ],
       },
        {
-        id: "personagens",
-        title: "Personagens para Decoração",
+        id: "caixacircro",
+        title: "Caixa Circular (Crochê)",
         price: "R$ 20",
         description:
           "",
         images: [
           "/produtos/mariarosa.jpg",
-          "/produtos/pikachu.jpg",
-          "/produtos/hellokitty.jpg",
-          "/produtos/bixinho.jpg",
-
+        ],
+      },
+      {
+        id: "tigelacro",
+        title: "Tigela (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "caixacorcro",
+        title: "Caixa Coração (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "bandejacircular",
+        title: "Bandeja Circular (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "potecro",
+        title: "Pote Cilíndrico (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "vasoflorcro",
+        title: "Vaso (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "vasoflor2cro",
+        title: "Vaso 2 (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "vasoflor3cro",
+        title: "Vaso 3 (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "portatrecocro",
+        title: "Porta Treco Coração (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "portatreco2cro",
+        title: "Porta Treco (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "portatreco3cro",
+        title: "Porta Treco 2 (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "portatreco4cro",
+        title: "Porta Treco Grande (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
         ],
       },
     ],
