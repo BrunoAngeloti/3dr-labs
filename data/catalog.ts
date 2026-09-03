@@ -1996,8 +1996,8 @@ export const catalog: Category[] = [
     image: "/produtos/mariarosa.jpg",
     products: [
       {
-        id: "placa-timao",
-        title: "Placa Escudos - Corinthians",
+        id: "Toponomedisney",
+        title: "Topo de Bolo - Letreiro Disney",
         price: "R$ 40",
         description:
           "",
@@ -2007,17 +2007,33 @@ export const catalog: Category[] = [
         ],
       },
        {
-        id: "personagens",
-        title: "Personagens para Decoração",
+        id: "topoidade",
+        title: "Topo de Bolo - Personalizado",
         price: "R$ 20",
         description:
           "",
         images: [
           "/produtos/mariarosa.jpg",
-          "/produtos/pikachu.jpg",
-          "/produtos/hellokitty.jpg",
-          "/produtos/bixinho.jpg",
-
+        ],
+      },
+      {
+        id: "topopersonagens",
+        title: "Topo de Bolo - Heróis",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "topopersonagens",
+        title: "Topo de Bolo - Princesas",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
         ],
       },
     ],
