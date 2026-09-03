@@ -787,28 +787,313 @@ export const catalog: Category[] = [
     image: "/produtos/mariarosa.jpg",
     products: [
       {
-        id: "placa-timao",
-        title: "Placa Escudos - Corinthians",
+        id: "Snorlaxpoke",
+        title: "Pokebola - Snorlax",
         price: "R$ 40",
         description:
           "",
         images: [
           "/produtos/placa.jpg",
-          "/produtos/placa2.jpg",
         ],
       },
        {
-        id: "personagens",
-        title: "Personagens para Decoração",
+        id: "Lucariopoke",
+        title: "Pokebola - Lucário",
         price: "R$ 20",
         description:
           "",
         images: [
           "/produtos/mariarosa.jpg",
-          "/produtos/pikachu.jpg",
-          "/produtos/hellokitty.jpg",
-          "/produtos/bixinho.jpg",
-
+        ],
+      },
+      {
+        id: "leafeonpoke",
+        title: "Pokebola - Leafeon",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "groundonpoke",
+        title: "Pokebola - Groundon",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "gastlypoke",
+        title: "Pokebola - Gastly",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Charizardpoke",
+        title: "Pokebola - Charizard",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Abrapoke",
+        title: "Pokebola - Abra",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "dragonitepoke",
+        title: "Pokebola - Dragonite",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Caterpiepoke",
+        title: "Pokebola - Caterpie",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "metapodpoke",
+        title: "Pokebola - Metapod",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "butterfreepoke",
+        title: "Pokebola - Butterfree",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "fearowpoke",
+        title: "Pokebola - Fearow",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Arbokpoke",
+        title: "Pokebola - Arbok",
+        price: "R$ 50",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "nidoranpoke",
+        title: "Pokebola - Nidoran",
+        price: "R$ 50",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "nidoqueenpoke",
+        title: "Pokebola - Nidoqueen",
+        price: "R$ 50",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "persianpoke",
+        title: "Pokebola - Persian",
+        price: "R$ 50",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "kadabrapoke",
+        title: "Pokebola - Kadabra",
+        price: "R$ 50",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "haunterpoke",
+        title: "Pokebola - Haunter",
+        price: "R$ 50",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Gengarpoke",
+        title: "Pokebola - Gengar",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Dratinipoke",
+        title: "Pokebola - Dratini",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Espeonpoke",
+        title: "Pokebola - Espeon",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Ubreonpoke",
+        title: "Pokebola - Umbreon",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Glaceonpoke",
+        title: "Pokebola - Glaceon",
+        price: "R$ 50",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "raiquazapoke",
+        title: "Pokebola - Raiquaza",
+        price: "R$ 50",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Kyogrepoke",
+        title: "Pokebola - Kyogre",
+        price: "R$ 50",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "lugiapoke",
+        title: "Pokebola - Lugia",
+        price: "R$ 50",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Greninjapoke",
+        title: "Pokebola - Greninja",
+        price: "R$ 50",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Minikyupoke",
+        title: "Pokebola - Minikyu",
+        price: "R$ 50",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Megachapoke",
+        title: "Pokebola - Mega Charizard",
+        price: "R$ 50",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "pikachupoke",
+        title: "Pokebola - Pikachu (Luffy)",
+        price: "R$ 50",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Sylveonpoke",
+        title: "Pokebola - Sylveon",
+        price: "R$ 50",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
         ],
       },
     ],
