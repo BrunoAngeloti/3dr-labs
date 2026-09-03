@@ -51,13 +51,25 @@ export const catalog: Category[] = [
         price: "Faça Seu Orçamento",
         description: "",
         images: [
-          "/produtos/giratório.jpg",
-          "/produtos/giratório2.jpg",
+          "/produtos/brindes/chaveiro giratório.jpg",
+          "/produtos/brindes/chaveiro giratório2.jpg",
+          "/produtos/brindes/chaveiro giratório3.jpg",
+          "/produtos/brindes/chaveiro giratório4.jpg",
         ],
       },
       {
         id: "Abridoreslata",
         title: "Abridores de Lata",
+        price: "Faça Seu Orçamento",
+        description: "",
+        images: [
+          "/produtos/hellokittya.jpg",
+          "/produtos/beijoa.jpg",
+        ],
+      },
+      {
+        id: "portaNFC",
+        title: "Chaveiro porta Tag NFC",
         price: "Faça Seu Orçamento",
         description: "",
         images: [
