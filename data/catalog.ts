@@ -818,6 +818,26 @@ export const catalog: Category[] = [
     title: "Animais Crochê",  
     image: "/produtos/mariarosa.jpg",
     products: [
+       {
+        id: "dinobravocro",
+        title: "Dino Bravo (Crochê)",
+        price: "R$ 40",
+        description:
+          "",
+        images: [
+          "/produtos/placa.jpg",
+        ],
+      },
+      {
+        id: "dinocro2",
+        title: "Dinossauro 2 (Crochê)",
+        price: "R$ 40",
+        description:
+          "",
+        images: [
+          "/produtos/placa.jpg",
+        ],
+      },
       {
         id: "dinossauro",
         title: "Dinossauro (Crochê)",
@@ -828,7 +848,47 @@ export const catalog: Category[] = [
           "/produtos/placa.jpg",
         ],
       },
-       {
+      {
+        id: "pouvocro",
+        title: "Pouvo (Crochê)",
+        price: "R$ 40",
+        description:
+          "",
+        images: [
+          "/produtos/placa.jpg",
+        ],
+      },
+      {
+        id: "tubaraocro",
+        title: "Tubarão (Crochê)",
+        price: "R$ 40",
+        description:
+          "",
+        images: [
+          "/produtos/placa.jpg",
+        ],
+      },
+      {
+        id: "lesmacoracro",
+        title: "Lesma Coração (Crochê)",
+        price: "R$ 40",
+        description:
+          "",
+        images: [
+          "/produtos/placa.jpg",
+        ],
+      },
+      {
+        id: "cachorrinhocro",
+        title: "Cachorrinho (Crochê)",
+        price: "R$ 40",
+        description:
+          "",
+        images: [
+          "/produtos/placa.jpg",
+        ],
+      },
+      {
         id: "coalacro",
         title: "Coala (Crochê)",
         price: "R$ 20",
@@ -839,8 +899,98 @@ export const catalog: Category[] = [
         ],
       },
       {
+        id: "pinguincro",
+        title: "Pinguim (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "golfinhocro",
+        title: "Golfinho (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "baleiacro",
+        title: "Baleia (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "gatocro",
+        title: "Gato 2 (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "raposacro",
+        title: "Raposa (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Minotaurocro",
+        title: "Minotauro (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "lontracro",
+        title: "Lontra (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "cachorrosalcro",
+        title: "Cachorro Salsicha (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
         id: "dragãocro",
         title: "Dragão (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "dragãocro2",
+        title: "Dragão 2 (Crochê)",
         price: "R$ 20",
         description:
           "",
@@ -909,6 +1059,16 @@ export const catalog: Category[] = [
         ],
       },
       {
+        id: "gatinharosacro",
+        title: "Gatinho Rosa (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
         id: "Vacacro",
         title: "Vaca (Crochê)",
         price: "R$ 20",
@@ -928,17 +1088,7 @@ export const catalog: Category[] = [
           "/produtos/mariarosa.jpg",
         ],
       },
-       {
-        id: "Vacacro",
-        title: "Vaca (Crochê)",
-        price: "R$ 20",
-        description:
-          "",
-        images: [
-          "/produtos/mariarosa.jpg",
-        ],
-      },
-       {
+      {
         id: "hipopotaocro",
         title: "Hipopotamo (Crochê)",
         price: "R$ 20",
@@ -951,6 +1101,16 @@ export const catalog: Category[] = [
        {
         id: "Cachorrocro",
         title: "Cachorro (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "cachorrofofo",
+        title: "Cachorro Fofo (Crochê)",
         price: "R$ 20",
         description:
           "",
@@ -979,8 +1139,8 @@ export const catalog: Category[] = [
         ],
       },
        {
-        id: "Vacacro",
-        title: "Vaca (Crochê)",
+        id: "passarocro",
+        title: "Pássaro (Crochê)",
         price: "R$ 20",
         description:
           "",
@@ -989,8 +1149,118 @@ export const catalog: Category[] = [
         ],
       },
        {
-        id: "Vacacro",
-        title: "Vaca (Crochê)",
+        id: "renanaralcro",
+        title: "Rena Natalina (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "ursopardocro",
+        title: "Urso (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "ursocoracaocro",
+        title: "Urso Coração (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "capivaracro",
+        title: "Capivara (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "elefantecro2",
+        title: "Elefante Colorido (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "focacro",
+        title: "Foca (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "cobracro",
+        title: "Cobra (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "patinhacro",
+        title: "Patinha (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Galinhacro",
+        title: "Galinha (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "Castor",
+        title: "Castor (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "lhaacro",
+        title: "Lhama (Crochê)",
+        price: "R$ 20",
+        description:
+          "",
+        images: [
+          "/produtos/mariarosa.jpg",
+        ],
+      },
+      {
+        id: "corujacro",
+        title: "Coruja (Crochê)",
         price: "R$ 20",
         description:
           "",
