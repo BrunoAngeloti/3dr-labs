@@ -2039,65 +2039,38 @@ export const catalog: Category[] = [
     ],
   },
   {    
-    id: "letreirosclasse",
-    title: "Letreiros Personalizados",  
-    image: "/produtos/mariarosa.jpg",
-    products: [
-      {
-        id: "placa-timao",
-        title: "Placa Escudos - Corinthians",
-        price: "R$ 40",
-        description:
-          "",
-        images: [
-          "/produtos/placa.jpg",
-          "/produtos/placa2.jpg",
-        ],
-      },
-       {
-        id: "personagens",
-        title: "Personagens para Decoração",
-        price: "R$ 20",
-        description:
-          "",
-        images: [
-          "/produtos/mariarosa.jpg",
-          "/produtos/pikachu.jpg",
-          "/produtos/hellokitty.jpg",
-          "/produtos/bixinho.jpg",
-
-        ],
-      },
-    ],
-  },
-  {    
     id: "Abridoror",
     title: "Abridores de Lata",  
     image: "/produtos/mariarosa.jpg",
     products: [
       {
-        id: "placa-timao",
-        title: "Placa Escudos - Corinthians",
-        price: "R$ 40",
+        id: "Abridorhellokitty",
+        title: "Chaveiro Abridor de Lata - Hello Kitty",
+        price: "R$ 15",
         description:
           "",
         images: [
           "/produtos/placa.jpg",
-          "/produtos/placa2.jpg",
         ],
       },
        {
-        id: "personagens",
-        title: "Personagens para Decoração",
-        price: "R$ 20",
+        id: "Abridorbeijo",
+        title: "Chaveiro Abridor de Lata - Beijo",
+        price: "R$ 15",
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
-          "/produtos/pikachu.jpg",
-          "/produtos/hellokitty.jpg",
-          "/produtos/bixinho.jpg",
-
+          "/produtos/placa.jpg",
+        ],
+      },
+      {
+        id: "Abridormarca",
+        title: "Chaveiro Abridor de Lata - Sua Marca",
+        price: "R$ 15",
+        description:
+          "",
+        images: [
+          "/produtos/placa.jpg",
         ],
       },
     ],
@@ -2118,6 +2091,16 @@ export const catalog: Category[] = [
           "/katana3.jpg",
           "/katana5.jpg",
           "/katana7.jpg",
+        ],
+      },
+      {
+        id: "carrof1deco",
+        title: "Carro Fórmula 1 - Decoração",
+        price: "R$ 80",
+        description:
+          "Leve para sua coleção a força e o estilo de um dos personagens mais marcantes dos animes. Esta katana inspirada em Inosuke é uma peça decorativa cheia de personalidade, perfeita para fãs, colecionadores ou para compor seu setup geek. Produzida em impressão 3D, possui design detalhado e acabamento que destaca o visual único da espada. Ideal para decoração, cosplay ou exposição.",
+        images: [
+          "/katana.jpg",
         ],
       },
     ],
