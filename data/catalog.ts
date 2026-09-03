@@ -696,7 +696,7 @@ export const catalog: Category[] = [
     ],
   },
    {    
-    id: "herois croche",
+    id: "heroiscroche",
     title: "Super Heróis Crochê",  
     image: "/produtos/mariarosa.jpg",
     products: [
