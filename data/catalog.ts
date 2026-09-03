@@ -2156,23 +2156,28 @@ export const catalog: Category[] = [
         ],
       },
       {
-        id: "seu-boneco-personalizado",
-        title: "Seu Boneco Personalizado",
-        price: "R$ 65",
+        id: "placa-timao",
+        title: "Placa Escudos - Corinthians",
+        price: "R$ 40",
         description:
-          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
+          "",
         images: [
-          "/produtos/seu-boneco-personalizado.png",
+          "/produtos/placa.jpg",
+          "/produtos/placa2.jpg",
         ],
       },
-      {
-        id: "letreiro-nome",
-        title: "Letreiro Nome - Disney",
-        price: "R$ 35",
+       {
+        id: "personagens",
+        title: "Personagens para Decoração",
+        price: "R$ 20",
         description:
-          "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
+          "",
         images: [
-          "/produtos/Letreironome.jpeg",
+          "/produtos/mariarosa.jpg",
+          "/produtos/pikachu.jpg",
+          "/produtos/hellokitty.jpg",
+          "/produtos/bixinho.jpg",
+
         ],
       },
     ],
