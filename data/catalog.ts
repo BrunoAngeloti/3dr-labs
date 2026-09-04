@@ -698,7 +698,7 @@ export const catalog: Category[] = [
    {    
     id: "heroiscroche",
     title: "Super Heróis Crochê",  
-    image: "/produtos/superman-croche.jpg",
+    image: "/produtos/herois-croche/superman-croche.jpg",
     products: [
       {
         id: "supermancro",
