@@ -1372,7 +1372,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/animais-croche/cachorro-colorido.jpg",
+          "/produtos/animais-croche/cachorro colorido.jpg",
         ],
       },
        {
