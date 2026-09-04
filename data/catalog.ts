@@ -1412,7 +1412,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/animais-croche/placa.jpg",
+          "/produtos/animais-croche/novo-modelo-119.jpg",
         ],
       },
       {
