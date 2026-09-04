@@ -447,7 +447,7 @@ export const catalog: Category[] = [
   {    
     id: "classicoscro",
     title: "Personagens Clássicos Crochê",  
-    image: "/produtos/personagens-croche/stitch-croche.png",
+    image: "/produtos/personagens-croche/stitch-croche.jpg",
     products: [ 
       {
         id: "harrycro",
@@ -455,7 +455,7 @@ export const catalog: Category[] = [
         price: "",
         description: "",
         images: [
-          "/produtos/personagens-croche/harry-potter-croche.png",
+          "/produtos/personagens-croche/harry-potter-croche.jpg",
         ],
       },
       {
@@ -464,7 +464,7 @@ export const catalog: Category[] = [
         price: "Faça Seu Orçamento",
         description: "",
         images: [
-          "/produtos/personagens-croche/hermione-croche.png",
+          "/produtos/personagens-croche/hermione-croche.jpg",
         ],
       },
       {
@@ -473,7 +473,7 @@ export const catalog: Category[] = [
         price: "Faça Seu Orçamento",
         description: "",
         images: [
-          "/produtos/personagens-croche/ron-croche.png",
+          "/produtos/personagens-croche/ron-croche.jpg",
         ],
       },
       {
@@ -482,7 +482,7 @@ export const catalog: Category[] = [
         price: "Faça Seu Orçamento",
         description: "",
         images: [
-          "/produtos/personagens-croche/mario-croche.png",
+          "/produtos/personagens-croche/mario-croche.jpg",
         ],
       },
       {
@@ -491,7 +491,7 @@ export const catalog: Category[] = [
         price: "Faça Seu Orçamento",
         description: "",
         images: [
-          "/produtos/personagens-croche/estrela-mariocro.png",
+          "/produtos/personagens-croche/estrela-mariocro.jpg",
         ],
       },
       {
@@ -500,7 +500,7 @@ export const catalog: Category[] = [
         price: "Faça Seu Orçamento",
         description: "",
         images: [
-          "/produtos/personagens-croche/stitch-croche.png",
+          "/produtos/personagens-croche/stitch-croche.jpg",
         ],
       },
       {
@@ -509,7 +509,7 @@ export const catalog: Category[] = [
         price: "Faça Seu Orçamento",
         description: "",
         images: [
-          "/produtos/personagens-croche/angel-croche.png",
+          "/produtos/personagens-croche/angel-croche.jpg",
         ],
       },
       {
@@ -518,7 +518,7 @@ export const catalog: Category[] = [
         price: "Faça Seu Orçamento",
         description: "",
         images: [
-          "/produtos/personagens-croche/lilo-croche.png",
+          "/produtos/personagens-croche/lilo-croche.jpg",
         ],
       },
       {
@@ -527,7 +527,7 @@ export const catalog: Category[] = [
         price: "Faça Seu Orçamento",
         description: "",
         images: [
-          "/produtos/personagens-croche/sonic-croche.png",
+          "/produtos/personagens-croche/sonic-croche.jpg",
         ],
       },
       {
@@ -536,7 +536,7 @@ export const catalog: Category[] = [
         price: "Faça Seu Orçamento",
         description: "",
         images: [
-          "/produtos/personagens-croche/tails-croche.png",
+          "/produtos/personagens-croche/tails-croche.jpg",
         ],
       },
       {
@@ -545,7 +545,7 @@ export const catalog: Category[] = [
         price: "Faça Seu Orçamento",
         description: "",
         images: [
-          "/produtos/personagens-croche/dr-eggman-croche.png",
+          "/produtos/personagens-croche/dr-eggman-croche.jpg",
         ],
       },
       {
@@ -554,7 +554,7 @@ export const catalog: Category[] = [
         price: "Faça Seu Orçamento",
         description: "",
         images: [
-          "/produtos/personagens-croche/silver-croche.png",
+          "/produtos/personagens-croche/silver-croche.jpg",
         ],
       },
       {
@@ -563,7 +563,7 @@ export const catalog: Category[] = [
         price: "Faça Seu Orçamento",
         description: "",
         images: [
-          "/produtos/personagens-croche/shadow-croche.png",
+          "/produtos/personagens-croche/shadow-croche.jpg",
         ],
       },
       {
@@ -572,7 +572,7 @@ export const catalog: Category[] = [
         price: "Faça Seu Orçamento",
         description: "",
         images: [
-          "/produtos/personagens-croche/super-sonic-croche.png",
+          "/produtos/personagens-croche/super-sonic-croche.jpg",
         ],
       },
       {
@@ -581,7 +581,7 @@ export const catalog: Category[] = [
         price: "Faça Seu Orçamento",
         description: "",
         images: [
-          "/produtos/personagens-croche/amy-croche.png",
+          "/produtos/personagens-croche/amy-croche.jpg",
         ],
       },
       {
@@ -590,7 +590,7 @@ export const catalog: Category[] = [
         price: "Faça Seu Orçamento",
         description: "",
         images: [
-          "/produtos/personagens-croche/knuckles-croche.png",
+          "/produtos/personagens-croche/knuckles-croche.jpg",
         ],
       },
       {
@@ -599,7 +599,7 @@ export const catalog: Category[] = [
         price: "Faça Seu Orçamento",
         description: "",
         images: [
-          "/produtos/personagens-croche/banguela-croche.png",
+          "/produtos/personagens-croche/banguela-croche.jpg",
         ],
       },
       {
@@ -608,7 +608,7 @@ export const catalog: Category[] = [
         price: "Faça Seu Orçamento",
         description: "",
         images: [
-          "/produtos/personagens-croche/snoopy-croche.png",
+          "/produtos/personagens-croche/snoopy-croche.jpg",
         ],
       },
       {
@@ -617,7 +617,7 @@ export const catalog: Category[] = [
         price: "",
         description: "",
         images: [
-          "/produtos/personagens-croche/baymax-croche.png",
+          "/produtos/personagens-croche/baymax-croche.jpg",
         ],
       },
       {
@@ -626,7 +626,7 @@ export const catalog: Category[] = [
         price: "",
         description: "",
         images: [
-          "/produtos/personagens-croche/minion-croche.png",
+          "/produtos/personagens-croche/minion-croche.jpg",
         ],
       },
       {
@@ -635,7 +635,7 @@ export const catalog: Category[] = [
         price: "",
         description: "",
         images: [
-          "/produtos/personagens-croche/patrick-estrela-croche.png",
+          "/produtos/personagens-croche/patrick-estrela-croche.jpg",
         ],
       },
       {
@@ -644,7 +644,7 @@ export const catalog: Category[] = [
         price: "",
         description: "",
         images: [
-          "/produtos/personagens-croche/mmickey-croche.png",
+          "/produtos/personagens-croche/mmickey-croche.jpg",
         ],
       },
       {
@@ -653,7 +653,7 @@ export const catalog: Category[] = [
         price: "",
         description: "",
         images: [
-          "/produtos/personagens-croche/yoshi-croche.png",
+          "/produtos/personagens-croche/yoshi-croche.jpg",
         ],
       },
       {
@@ -662,7 +662,7 @@ export const catalog: Category[] = [
         price: "",
         description: "",
         images: [
-          "/produtos/personagens-croche/mike-croche.png",
+          "/produtos/personagens-croche/mike-croche.jpg",
         ],
       },
       {
@@ -671,7 +671,7 @@ export const catalog: Category[] = [
         price: "",
         description: "",
         images: [
-          "/produtos/personagens-croche/novo-modelo-4.png",
+          "/produtos/personagens-croche/novo-modelo-4.jpg",
         ],
       },
       {
@@ -680,7 +680,7 @@ export const catalog: Category[] = [
         price: "",
         description: "",
         images: [
-          "/produtos/personagens-croche/novo-modelo-117.png",
+          "/produtos/personagens-croche/novo-modelo-117.jpg",
         ],
       },
     ],
