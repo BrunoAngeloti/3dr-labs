@@ -796,7 +796,7 @@ export const catalog: Category[] = [
   {    
     id: "pokebola",
     title: "Pokebolas",  
-    image: "/produtos/charizard.png",
+    image: "/produtos/charizard.jpg",
     products: [
       {
         id: "Snorlaxpoke",
@@ -855,7 +855,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/pokebolas/charizard.png",
+          "/produtos/pokebolas/charizard.jpg",
         ],
       },
       {
