@@ -796,36 +796,36 @@ export const catalog: Category[] = [
   {    
     id: "pokebola",
     title: "Pokebolas",  
-    image: "/produtos/mariarosa.jpg",
+    image: "/produtos/charizard.png",
     products: [
       {
         id: "Snorlaxpoke",
         title: "Pokebola - Snorlax",
-        price: "R$ 40",
+        price: "R$ 50",
         description:
           "",
         images: [
-          "/produtos/placa.jpg",
+          "/produtos/pokebolas/snorlax.png",
         ],
       },
        {
         id: "Lucariopoke",
         title: "Pokebola - Lucário",
-        price: "R$ 20",
+        price: "R$ 50",
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/lucario.png",
         ],
       },
       {
         id: "leafeonpoke",
         title: "Pokebola - Leafeon",
-        price: "R$ 20",
+        price: "R$ 50",
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/leafeon.png",
         ],
       },
       {
@@ -835,7 +835,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/groundon.png",
         ],
       },
       {
@@ -845,37 +845,37 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/gastly.png",
         ],
       },
       {
         id: "Charizardpoke",
         title: "Pokebola - Charizard",
-        price: "R$ 20",
+        price: "R$ 60",
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/charizard.png",
         ],
       },
       {
         id: "Abrapoke",
         title: "Pokebola - Abra",
-        price: "R$ 20",
+        price: "R$ 50",
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/abra.png",
         ],
       },
       {
         id: "dragonitepoke",
         title: "Pokebola - Dragonite",
-        price: "R$ 20",
+        price: "R$ 60",
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/dragonite.png",
         ],
       },
       {
@@ -885,7 +885,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/caterpie.png",
         ],
       },
       {
@@ -895,27 +895,27 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/metapod.png",
         ],
       },
       {
         id: "butterfreepoke",
         title: "Pokebola - Butterfree",
-        price: "R$ 20",
+        price: "R$ 60",
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/butterfree.png",
         ],
       },
       {
         id: "fearowpoke",
         title: "Pokebola - Fearow",
-        price: "R$ 20",
+        price: "R$ 60",
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/fearow.png",
         ],
       },
       {
@@ -925,7 +925,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/arbok.png",
         ],
       },
       {
@@ -935,7 +935,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/nidoran.png",
         ],
       },
       {
@@ -945,7 +945,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/nidoqueen.png",
         ],
       },
       {
@@ -955,17 +955,17 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/persian.png",
         ],
       },
       {
         id: "kadabrapoke",
         title: "Pokebola - Kadabra",
-        price: "R$ 50",
+        price: "R$ 55",
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/kadabra.png",
         ],
       },
       {
@@ -975,37 +975,37 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/haunter.png",
         ],
       },
       {
         id: "Gengarpoke",
         title: "Pokebola - Gengar",
-        price: "R$ 20",
+        price: "R$ 50",
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/gengar.png",
         ],
       },
       {
         id: "Dratinipoke",
         title: "Pokebola - Dratini",
-        price: "R$ 20",
+        price: "R$ 50",
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/dratini.png",
         ],
       },
       {
         id: "Espeonpoke",
         title: "Pokebola - Espeon",
-        price: "R$ 20",
+        price: "R$ 55",
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/espeon.png",
         ],
       },
       {
@@ -1015,7 +1015,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/umbreon.png",
         ],
       },
       {
@@ -1025,7 +1025,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/glaceon.png",
         ],
       },
       {
@@ -1035,37 +1035,37 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/rayquaza.png",
         ],
       },
       {
         id: "Kyogrepoke",
         title: "Pokebola - Kyogre",
-        price: "R$ 50",
+        price: "R$ 60",
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/kyogre.png",
         ],
       },
       {
         id: "lugiapoke",
         title: "Pokebola - Lugia",
-        price: "R$ 50",
+        price: "R$ 60",
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/lugia.png",
         ],
       },
       {
         id: "Greninjapoke",
         title: "Pokebola - Greninja",
-        price: "R$ 50",
+        price: "R$ 60",
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/greninja.png",
         ],
       },
       {
@@ -1075,37 +1075,17 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/minikyu.png",
         ],
       },
       {
-        id: "Megachapoke",
-        title: "Pokebola - Mega Charizard",
-        price: "R$ 50",
+        id: "arcaninepoke",
+        title: "Pokebola - Arcanine",
+        price: "R$ 55",
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
-        ],
-      },
-      {
-        id: "pikachupoke",
-        title: "Pokebola - Pikachu (Luffy)",
-        price: "R$ 50",
-        description:
-          "",
-        images: [
-          "/produtos/mariarosa.jpg",
-        ],
-      },
-      {
-        id: "Sylveonpoke",
-        title: "Pokebola - Sylveon",
-        price: "R$ 50",
-        description:
-          "",
-        images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokebolas/arcanine.png",
         ],
       },
     ],
