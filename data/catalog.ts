@@ -1082,7 +1082,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/placa.jpg",
+          "/produtos/animais-croche/dinoraiva.jpg",
         ],
       },
       {
@@ -1092,7 +1092,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/placa.jpg",
+          "/produtos/animais-croche/dino2.jpg",
         ],
       },
       {
@@ -1102,7 +1102,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/placa.jpg",
+          "/produtos/animais-croche/dino.jpg",
         ],
       },
       {
@@ -1112,7 +1112,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/placa.jpg",
+          "/produtos/animais-croche/polvo.jpg",
         ],
       },
       {
@@ -1122,7 +1122,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/placa.jpg",
+          "/produtos/animais-croche/tubarao.jpg",
         ],
       },
       {
@@ -1132,7 +1132,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/placa.jpg",
+          "/produtos/animais-croche/lesma crochê.jpg",
         ],
       },
       {
@@ -1142,7 +1142,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/placa.jpg",
+          "/produtos/animais-croche/cachorrinhofofo.jpg",
         ],
       },
       {
@@ -1152,7 +1152,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/coala-coracao.jpg",
         ],
       },
       {
@@ -1162,7 +1162,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/pinguim.jpg",
         ],
       },
       {
@@ -1172,7 +1172,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/golfinho.jpg",
         ],
       },
       {
@@ -1182,7 +1182,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/baleia.jpg",
         ],
       },
       {
@@ -1192,7 +1192,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/gato.jpg",
         ],
       },
       {
@@ -1202,7 +1202,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/raposa.jpg",
         ],
       },
       {
@@ -1212,7 +1212,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/placa.jpg",
         ],
       },
       {
@@ -1222,7 +1222,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/lontra.jpg",
         ],
       },
       {
@@ -1232,7 +1232,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/cachorro-linguiça.jpg",
         ],
       },
       {
@@ -1242,7 +1242,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/dragao.jpg",
         ],
       },
       {
@@ -1252,7 +1252,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/dragao2.jpg",
         ],
       },
       {
@@ -1262,7 +1262,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/ursopolar.jpg",
         ],
       },
       {
@@ -1272,7 +1272,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/coalho.jpg",
         ],
       },
       {
@@ -1282,7 +1282,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/elefante.jpg",
         ],
       },
       {
@@ -1292,7 +1292,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/rena.jpg",
         ],
       },
       {
@@ -1302,7 +1302,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/aranha.jpg",
         ],
       },
       {
@@ -1312,7 +1312,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/gato2.jpg",
         ],
       },
       {
@@ -1322,7 +1322,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/gatinhorosa.jpg",
         ],
       },
       {
@@ -1332,7 +1332,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/vaca.jpg",
         ],
       },
       {
@@ -1342,7 +1342,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/girafa.jpg",
         ],
       },
       {
@@ -1352,7 +1352,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/hipopotamo.jpg",
         ],
       },
        {
@@ -1362,7 +1362,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/cachorro.jpg",
         ],
       },
       {
@@ -1372,7 +1372,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/cachorro-colorido.jpg",
         ],
       },
        {
@@ -1382,7 +1382,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/rino.jpg",
         ],
       },
        {
@@ -1392,7 +1392,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/porco.jpg",
         ],
       },
        {
@@ -1402,7 +1402,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/passaro.jpg",
         ],
       },
        {
@@ -1412,7 +1412,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/placa.jpg",
         ],
       },
       {
@@ -1422,7 +1422,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/ursopardo.jpg",
         ],
       },
       {
@@ -1432,7 +1432,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/ursocoracao.jpg",
         ],
       },
       {
@@ -1442,7 +1442,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/capivara.jpg",
         ],
       },
       {
@@ -1452,7 +1452,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/elefante-colorido.jpg",
         ],
       },
       {
@@ -1462,7 +1462,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/placa.jpg",
         ],
       },
       {
@@ -1472,7 +1472,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/cobra.jpg",
         ],
       },
       {
@@ -1482,7 +1482,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/patinha.jpg",
         ],
       },
       {
@@ -1492,7 +1492,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/galinha.jpg",
         ],
       },
       {
@@ -1502,7 +1502,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/castor.jpg",
         ],
       },
       {
@@ -1512,7 +1512,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/lhama.jpg",
         ],
       },
       {
@@ -1522,7 +1522,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/animais-croche/coruja.jpg",
         ],
       },
     ],
