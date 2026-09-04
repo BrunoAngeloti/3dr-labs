@@ -698,7 +698,7 @@ export const catalog: Category[] = [
    {    
     id: "heroiscroche",
     title: "Super Heróis Crochê",  
-    image: "/produtos/mariarosa.jpg",
+    image: "/produtos/superman-croche.jpg",
     products: [
       {
         id: "supermancro",
@@ -707,8 +707,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/placa.jpg",
-          "/produtos/placa2.jpg",
+          "/produtos/herois-croche/superman-croche.jpg",
         ],
       },
        {
@@ -718,7 +717,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/herois-croche/batman-croche.jpg",
         ],
       },
       {
@@ -728,18 +727,9 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
-        ],
-      },
-      {
-        id: "hulkcro",
-        title: "Hulk (Crochê)",
-        price: "",
-        description:
-          "",
-        images: [
-          "/produtos/mariarosa.jpg",
-        ],
+          "/produtos/herois-croche/1-groot-croche.jpg",
+          "/produtos/herois-croche/19-groot-croche.jpg",
+          "/produtos/herois-croche/43-groot-croche.jpg",        ],
       },
       {
         id: "darthvadercro",
@@ -748,7 +738,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/herois-croche/darth-vader-croche.jpg",
         ],
       },
       {
@@ -758,7 +748,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/herois-croche/baby-yoda-croche.jpg",
         ],
       },
       {
@@ -768,7 +758,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/herois-croche/stormtrooper-croche.jpg",
         ],
       },
       {
@@ -778,7 +768,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/herois-croche/bb8-croche.jpg",
         ],
       },
       {
@@ -788,7 +778,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/herois-croche/mandaloriano-croche.jpg",
         ],
       },
     ],
@@ -1550,7 +1540,7 @@ export const catalog: Category[] = [
   {    
     id: "pokecroche",
     title: "Pokemons Crochê",  
-    image: "/produtos/mariarosa.jpg",
+    image: "/produtos/pikachu.jpg",
     products: [
       {
         id: "caterpie",
