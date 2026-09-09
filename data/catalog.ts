@@ -1955,7 +1955,7 @@ export const catalog: Category[] = [
   {    
     id: "topodebolo",
     title: "Topos de Bolo",  
-    image: "/produtos/mariarosa.jpg",
+    image: "/produtos/letreironome.jpeg",
     products: [
       {
         id: "Toponomedisney",
@@ -1964,8 +1964,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/placa.jpg",
-          "/produtos/placa2.jpg",
+          "/produtos/letreironome.jpeg",
         ],
       },
        {
