@@ -1747,7 +1747,7 @@ export const catalog: Category[] = [
   {    
     id: "potescroche",
     title: "Potes Crochê",  
-    image: "/produtos/mariarosa.jpg",
+    image: "/produtos/potes-croche/vaso 2.jpg",
     products: [
       {
         id: "potepresentecro",
