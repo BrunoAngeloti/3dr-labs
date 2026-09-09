@@ -1756,7 +1756,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/placa.jpg",
+          "/produtos/potes-croche/caixa presente.jpg",
         ],
       },
       {
@@ -1766,17 +1766,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/placa.jpg",
-        ],
-      },
-       {
-        id: "caixacircro",
-        title: "Caixa Circular (Crochê)",
-        price: "",
-        description:
-          "",
-        images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/potes-croche/presente 2.jpg",
         ],
       },
       {
@@ -1786,17 +1776,17 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/potes-croche/tigela.jpg",
         ],
       },
       {
         id: "caixacorcro",
-        title: "Caixa Coração (Crochê)",
+        title: "Cesta Coração (Crochê)",
         price: "",
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/potes-croche/caixa coracao.jpg",
         ],
       },
       {
@@ -1806,7 +1796,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/potes-croche/caixa-circular.jpg",
         ],
       },
       {
@@ -1816,7 +1806,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/potes-croche/pote-cilindrico.jpg",
         ],
       },
       {
@@ -1826,7 +1816,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/potes-croche/vaso.jpg",
         ],
       },
       {
@@ -1836,7 +1826,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/potes-croche/vaso 2.jpg",
         ],
       },
       {
@@ -1846,7 +1836,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/potes-croche/vaso 4.jpg",
         ],
       },
       {
@@ -1856,7 +1846,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/potes-croche/porta-trecocora.jpg",
         ],
       },
       {
@@ -1866,7 +1856,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/potes-croche/porta-treco2.jpg",
         ],
       },
       {
@@ -1876,7 +1866,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/potes-croche/portatreco.jpg",
         ],
       },
       {
@@ -1886,7 +1876,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/potes-croche/portatrecogrande.jpg",
         ],
       },
     ],
