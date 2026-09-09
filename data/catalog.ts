@@ -1619,7 +1619,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/pokemom-croche/diglett.jpg",
+          "/produtos/pokemom-croche/diglett-croche.jpg",
         ],
       },
       {
