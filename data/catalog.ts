@@ -29,7 +29,7 @@ export const catalog: Category[] = [
        {
         id: "PortaCelular",
         title: "Suporte para Celular",
-        price: "Faça Seu Orçamento",
+        price: "Faça seu Orçamento",
         description: "",
         images: [
           "/produtos/portacll.jpg",
@@ -38,7 +38,7 @@ export const catalog: Category[] = [
       {
         id: "ChaveiroLogo",
         title: "Chaveiro Logo",
-        price: "Faça Seu Orçamento",
+        price: "Faça seu Orçamento",
         description: "",
         images: [
           "/produtos/chaveirologo1.jpg",
@@ -48,7 +48,7 @@ export const catalog: Category[] = [
       {
         id: "Chaveiro Giratório",
         title: "Chaveiro Giratório",
-        price: "Faça Seu Orçamento",
+        price: "Faça seu Orçamento",
         description: "",
         images: [
           "/produtos/brindes/chaveiro giratório.jpg",
@@ -60,7 +60,7 @@ export const catalog: Category[] = [
       {
         id: "Abridoreslata",
         title: "Abridores de Lata",
-        price: "Faça Seu Orçamento",
+        price: "Faça seu Orçamento",
         description: "",
         images: [
           "/produtos/hellokittya.jpg",
@@ -70,7 +70,7 @@ export const catalog: Category[] = [
       {
         id: "portaNFC",
         title: "Chaveiro porta Tag NFC",
-        price: "Faça Seu Orçamento",
+        price: "Faça seu Orçamento",
         description: "",
         images: [
           "/produtos/hellokittya.jpg",
@@ -461,7 +461,7 @@ export const catalog: Category[] = [
       {
         id: "mermionecro",
         title: "Hermione Granger (Crochê)",
-        price: "Faça Seu Orçamento",
+        price: "",
         description: "",
         images: [
           "/produtos/personagens-croche/hermione-croche.jpg",
@@ -470,7 +470,7 @@ export const catalog: Category[] = [
       {
         id: "ronycro",
         title: "Rony Weasley (Crochê)",
-        price: "Faça Seu Orçamento",
+        price: "",
         description: "",
         images: [
           "/produtos/personagens-croche/ron-croche.jpg",
@@ -479,7 +479,7 @@ export const catalog: Category[] = [
       {
         id: "mariocro",
         title: "Mario (Crochê)",
-        price: "Faça Seu Orçamento",
+        price: "",
         description: "",
         images: [
           "/produtos/personagens-croche/mario-croche.jpg",
@@ -488,7 +488,7 @@ export const catalog: Category[] = [
       {
         id: "estrelaariocro",
         title: "Estrela Super Mário (Crochê)",
-        price: "Faça Seu Orçamento",
+        price: "",
         description: "",
         images: [
           "/produtos/personagens-croche/estrela-mariocro.jpg",
@@ -497,7 +497,7 @@ export const catalog: Category[] = [
       {
         id: "Stitchcro",
         title: "Stitch (Crochê)",
-        price: "Faça Seu Orçamento",
+        price: "",
         description: "",
         images: [
           "/produtos/personagens-croche/stitch-croche.jpg",
@@ -506,7 +506,7 @@ export const catalog: Category[] = [
       {
         id: "Stitchrosacro",
         title: "Stitch Rosa (Crochê)",
-        price: "Faça Seu Orçamento",
+        price: "",
         description: "",
         images: [
           "/produtos/personagens-croche/angel-croche.jpg",
@@ -515,7 +515,7 @@ export const catalog: Category[] = [
       {
         id: "lilocro",
         title: "Lilo (Stitch) (Crochê)",
-        price: "Faça Seu Orçamento",
+        price: "",
         description: "",
         images: [
           "/produtos/personagens-croche/lilo-croche.jpg",
@@ -524,7 +524,7 @@ export const catalog: Category[] = [
       {
         id: "Soniccro",
         title: "Sonic (Crochê)",
-        price: "Faça Seu Orçamento",
+        price: "",
         description: "",
         images: [
           "/produtos/personagens-croche/sonic-croche.jpg",
@@ -533,7 +533,7 @@ export const catalog: Category[] = [
       {
         id: "taliscro",
         title: "Talis (Crochê)",
-        price: "Faça Seu Orçamento",
+        price: "",
         description: "",
         images: [
           "/produtos/personagens-croche/tails-croche.jpg",
@@ -542,7 +542,7 @@ export const catalog: Category[] = [
       {
         id: "dreggcro",
         title: "Dr. Eggman (Crochê)",
-        price: "Faça Seu Orçamento",
+        price: "",
         description: "",
         images: [
           "/produtos/personagens-croche/dr-eggman-croche.jpg",
@@ -551,7 +551,7 @@ export const catalog: Category[] = [
       {
         id: "silvercro",
         title: "Silver (Crochê)",
-        price: "Faça Seu Orçamento",
+        price: "",
         description: "",
         images: [
           "/produtos/personagens-croche/silver-croche.jpg",
@@ -560,7 +560,7 @@ export const catalog: Category[] = [
       {
         id: "Shadowcro",
         title: "Shadow (Crochê)",
-        price: "Faça Seu Orçamento",
+        price: "",
         description: "",
         images: [
           "/produtos/personagens-croche/shadow-croche.jpg",
@@ -569,7 +569,7 @@ export const catalog: Category[] = [
       {
         id: "Supersoniccro",
         title: "Super Sonic (Crochê)",
-        price: "Faça Seu Orçamento",
+        price: "",
         description: "",
         images: [
           "/produtos/personagens-croche/super-sonic-croche.jpg",
@@ -578,7 +578,7 @@ export const catalog: Category[] = [
       {
         id: "Amyrosecro",
         title: "Amy Rose (Crochê)",
-        price: "Faça Seu Orçamento",
+        price: "",
         description: "",
         images: [
           "/produtos/personagens-croche/amy-croche.jpg",
@@ -587,7 +587,7 @@ export const catalog: Category[] = [
       {
         id: "Knucklescro",
         title: "Knuckles (Crochê)",
-        price: "Faça Seu Orçamento",
+        price: "",
         description: "",
         images: [
           "/produtos/personagens-croche/knuckles-croche.jpg",
@@ -596,7 +596,7 @@ export const catalog: Category[] = [
       {
         id: "Banguelacro",
         title: "Banguela (Crochê)",
-        price: "Faça Seu Orçamento",
+        price: "",
         description: "",
         images: [
           "/produtos/personagens-croche/banguela-croche.jpg",
@@ -605,7 +605,7 @@ export const catalog: Category[] = [
       {
         id: "Snoopycro",
         title: "Snoopy (Crochê)",
-        price: "Faça Seu Orçamento",
+        price: "",
         description: "",
         images: [
           "/produtos/personagens-croche/snoopy-croche.jpg",
@@ -811,7 +811,7 @@ export const catalog: Category[] = [
       {
         id: "groundonpoke",
         title: "Pokebola - Groundon",
-        price: "R$ 20",
+        price: "R$ 50",
         description:
           "",
         images: [
@@ -821,7 +821,7 @@ export const catalog: Category[] = [
       {
         id: "gastlypoke",
         title: "Pokebola - Gastly",
-        price: "R$ 20",
+        price: "R$ 50",
         description:
           "",
         images: [
@@ -861,7 +861,7 @@ export const catalog: Category[] = [
       {
         id: "Caterpiepoke",
         title: "Pokebola - Caterpie",
-        price: "R$ 20",
+        price: "R$ 50",
         description:
           "",
         images: [
@@ -871,7 +871,7 @@ export const catalog: Category[] = [
       {
         id: "metapodpoke",
         title: "Pokebola - Metapod",
-        price: "R$ 20",
+        price: "R$ 50",
         description:
           "",
         images: [
@@ -991,7 +991,7 @@ export const catalog: Category[] = [
       {
         id: "Ubreonpoke",
         title: "Pokebola - Umbreon",
-        price: "R$ 20",
+        price: "R$ 50",
         description:
           "",
         images: [
@@ -1078,7 +1078,7 @@ export const catalog: Category[] = [
        {
         id: "dinobravocro",
         title: "Dino Bravo (Crochê)",
-        price: "R$ 40",
+        price: "",
         description:
           "",
         images: [
@@ -1088,7 +1088,7 @@ export const catalog: Category[] = [
       {
         id: "dinocro2",
         title: "Dinossauro 2 (Crochê)",
-        price: "R$ 40",
+        price: "",
         description:
           "",
         images: [
@@ -1098,7 +1098,7 @@ export const catalog: Category[] = [
       {
         id: "dinossauro",
         title: "Dinossauro (Crochê)",
-        price: "R$ 40",
+        price: "",
         description:
           "",
         images: [
@@ -1108,7 +1108,7 @@ export const catalog: Category[] = [
       {
         id: "pouvocro",
         title: "Pouvo (Crochê)",
-        price: "R$ 40",
+        price: "",
         description:
           "",
         images: [
@@ -1118,7 +1118,7 @@ export const catalog: Category[] = [
       {
         id: "tubaraocro",
         title: "Tubarão (Crochê)",
-        price: "R$ 40",
+        price: "",
         description:
           "",
         images: [
@@ -1128,7 +1128,7 @@ export const catalog: Category[] = [
       {
         id: "lesmacoracro",
         title: "Lesma Coração (Crochê)",
-        price: "R$ 40",
+        price: "",
         description:
           "",
         images: [
@@ -1138,7 +1138,7 @@ export const catalog: Category[] = [
       {
         id: "cachorrinhocro",
         title: "Cachorrinho (Crochê)",
-        price: "R$ 40",
+        price: "",
         description:
           "",
         images: [
@@ -1148,7 +1148,7 @@ export const catalog: Category[] = [
       {
         id: "coalacro",
         title: "Coala (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1158,7 +1158,7 @@ export const catalog: Category[] = [
       {
         id: "pinguincro",
         title: "Pinguim (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1168,7 +1168,7 @@ export const catalog: Category[] = [
       {
         id: "golfinhocro",
         title: "Golfinho (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1178,7 +1178,7 @@ export const catalog: Category[] = [
       {
         id: "baleiacro",
         title: "Baleia (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1188,7 +1188,7 @@ export const catalog: Category[] = [
       {
         id: "gatocro",
         title: "Gato 2 (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1198,7 +1198,7 @@ export const catalog: Category[] = [
       {
         id: "raposacro",
         title: "Raposa (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1208,7 +1208,7 @@ export const catalog: Category[] = [
       {
         id: "Minotaurocro",
         title: "Minotauro (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1218,7 +1218,7 @@ export const catalog: Category[] = [
       {
         id: "lontracro",
         title: "Lontra (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1228,7 +1228,7 @@ export const catalog: Category[] = [
       {
         id: "cachorrosalcro",
         title: "Cachorro Salsicha (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1238,7 +1238,7 @@ export const catalog: Category[] = [
       {
         id: "dragãocro",
         title: "Dragão (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1248,7 +1248,7 @@ export const catalog: Category[] = [
       {
         id: "dragãocro2",
         title: "Dragão 2 (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1258,7 +1258,7 @@ export const catalog: Category[] = [
       {
         id: "UrsoPolarcro",
         title: "Urso Polar (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1268,7 +1268,7 @@ export const catalog: Category[] = [
       {
         id: "coelhocro ",
         title: "Coelho (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1278,7 +1278,7 @@ export const catalog: Category[] = [
       {
         id: "elefantecro",
         title: "Elefante (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1288,7 +1288,7 @@ export const catalog: Category[] = [
       {
         id: "renacro",
         title: "Rena (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1298,7 +1298,7 @@ export const catalog: Category[] = [
       {
         id: "aranhacro",
         title: "Aranha (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1308,7 +1308,7 @@ export const catalog: Category[] = [
       {
         id: "Gatocro",
         title: "Gato (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1318,7 +1318,7 @@ export const catalog: Category[] = [
       {
         id: "gatinharosacro",
         title: "Gatinho Rosa (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1328,7 +1328,7 @@ export const catalog: Category[] = [
       {
         id: "Vacacro",
         title: "Vaca (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1338,7 +1338,7 @@ export const catalog: Category[] = [
       {
         id: "Girafacro",
         title: "Girafa (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1348,7 +1348,7 @@ export const catalog: Category[] = [
       {
         id: "hipopotaocro",
         title: "Hipopotamo (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1358,7 +1358,7 @@ export const catalog: Category[] = [
        {
         id: "Cachorrocro",
         title: "Cachorro (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1368,7 +1368,7 @@ export const catalog: Category[] = [
       {
         id: "cachorrofofo",
         title: "Cachorro Fofo (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1378,7 +1378,7 @@ export const catalog: Category[] = [
        {
         id: "rinocerrontecro",
         title: "Rinocerronte (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1388,7 +1388,7 @@ export const catalog: Category[] = [
        {
         id: "porcocro",
         title: "Porco (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1398,7 +1398,7 @@ export const catalog: Category[] = [
        {
         id: "passarocro",
         title: "Pássaro (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1408,7 +1408,7 @@ export const catalog: Category[] = [
        {
         id: "renanaralcro",
         title: "Rena Natalina (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1418,7 +1418,7 @@ export const catalog: Category[] = [
       {
         id: "ursopardocro",
         title: "Urso (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1428,7 +1428,7 @@ export const catalog: Category[] = [
       {
         id: "ursocoracaocro",
         title: "Urso Coração (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1438,7 +1438,7 @@ export const catalog: Category[] = [
       {
         id: "capivaracro",
         title: "Capivara (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1448,7 +1448,7 @@ export const catalog: Category[] = [
       {
         id: "elefantecro2",
         title: "Elefante Colorido (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1458,7 +1458,7 @@ export const catalog: Category[] = [
       {
         id: "focacro",
         title: "Foca (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1468,7 +1468,7 @@ export const catalog: Category[] = [
       {
         id: "cobracro",
         title: "Cobra (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1478,7 +1478,7 @@ export const catalog: Category[] = [
       {
         id: "patinhacro",
         title: "Patinha (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1488,7 +1488,7 @@ export const catalog: Category[] = [
       {
         id: "Galinhacro",
         title: "Galinha (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1498,7 +1498,7 @@ export const catalog: Category[] = [
       {
         id: "Castor",
         title: "Castor (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1508,7 +1508,7 @@ export const catalog: Category[] = [
       {
         id: "lhaacro",
         title: "Lhama (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1518,7 +1518,7 @@ export const catalog: Category[] = [
       {
         id: "corujacro",
         title: "Coruja (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1535,7 +1535,7 @@ export const catalog: Category[] = [
       {
         id: "caterpie",
         title: "Caterpie (Crochê)",
-        price: "R$ 40",
+        price: "",
         description:
           "",
         images: [
@@ -1545,7 +1545,7 @@ export const catalog: Category[] = [
       {
         id: "gengarcro",
         title: "Gengar (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1555,7 +1555,7 @@ export const catalog: Category[] = [
       {
         id: "eveecro",
         title: "Evee (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1565,7 +1565,7 @@ export const catalog: Category[] = [
       {
         id: "charandercro",
         title: "Charmander (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1575,7 +1575,7 @@ export const catalog: Category[] = [
       {
         id: "pikachucro",
         title: "Pikachu (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1585,7 +1585,7 @@ export const catalog: Category[] = [
       {
         id: "pikachunatalcro",
         title: "Pikachu Natal (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1595,7 +1595,7 @@ export const catalog: Category[] = [
       {
         id: "Squartlecro",
         title: "Squartle (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1605,7 +1605,7 @@ export const catalog: Category[] = [
        {
         id: "Bulbassaurocro",
         title: "Bulbassauro (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1615,7 +1615,7 @@ export const catalog: Category[] = [
       {
         id: "Diglettcro",
         title: "Diglett (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1625,7 +1625,7 @@ export const catalog: Category[] = [
       {
         id: "Jigglypuffcro",
         title: "Jigglypuff (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1635,7 +1635,7 @@ export const catalog: Category[] = [
       {
         id: "metapodcro",
         title: "Metapod (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1645,7 +1645,7 @@ export const catalog: Category[] = [
       {
         id: "Psyduckcro",
         title: "Psyduck (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1655,7 +1655,7 @@ export const catalog: Category[] = [
       {
         id: "snorlaxcro",
         title: "Snorlax (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1665,7 +1665,7 @@ export const catalog: Category[] = [
       {
         id: "Wartortlecro",
         title: "Wartortle (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1675,7 +1675,7 @@ export const catalog: Category[] = [
       {
         id: "Togepicro",
         title: "Togepi (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1685,7 +1685,7 @@ export const catalog: Category[] = [
       {
         id: "chikorita",
         title: "Chikorita (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1695,7 +1695,7 @@ export const catalog: Category[] = [
       {
         id: "Dittocro",
         title: "Ditto (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1705,7 +1705,7 @@ export const catalog: Category[] = [
       {
         id: "Geodudecro",
         title: "Geodude (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1715,7 +1715,7 @@ export const catalog: Category[] = [
       {
         id: "Omanytecro",
         title: "Omanyte (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1725,7 +1725,7 @@ export const catalog: Category[] = [
       {
         id: "Voltorbcro",
         title: "Voltorb (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1735,7 +1735,7 @@ export const catalog: Category[] = [
       {
         id: "pokebolacro",
         title: "pokebola (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1752,7 +1752,7 @@ export const catalog: Category[] = [
       {
         id: "potepresentecro",
         title: "Caixa Presente (Crochê)",
-        price: "R$ 40",
+        price: "",
         description:
           "",
         images: [
@@ -1762,7 +1762,7 @@ export const catalog: Category[] = [
       {
         id: "caixapresentecro",
         title: "Caixa Presente 2 (Crochê)",
-        price: "R$ 40",
+        price: "",
         description:
           "",
         images: [
@@ -1772,7 +1772,7 @@ export const catalog: Category[] = [
        {
         id: "caixacircro",
         title: "Caixa Circular (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1782,7 +1782,7 @@ export const catalog: Category[] = [
       {
         id: "tigelacro",
         title: "Tigela (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1792,7 +1792,7 @@ export const catalog: Category[] = [
       {
         id: "caixacorcro",
         title: "Caixa Coração (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1802,7 +1802,7 @@ export const catalog: Category[] = [
       {
         id: "bandejacircular",
         title: "Bandeja Circular (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1812,7 +1812,7 @@ export const catalog: Category[] = [
       {
         id: "potecro",
         title: "Pote Cilíndrico (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1822,7 +1822,7 @@ export const catalog: Category[] = [
       {
         id: "vasoflorcro",
         title: "Vaso (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1832,7 +1832,7 @@ export const catalog: Category[] = [
       {
         id: "vasoflor2cro",
         title: "Vaso 2 (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1842,7 +1842,7 @@ export const catalog: Category[] = [
       {
         id: "vasoflor3cro",
         title: "Vaso 3 (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1852,7 +1852,7 @@ export const catalog: Category[] = [
       {
         id: "portatrecocro",
         title: "Porta Treco Coração (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1862,7 +1862,7 @@ export const catalog: Category[] = [
       {
         id: "portatreco2cro",
         title: "Porta Treco (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1872,7 +1872,7 @@ export const catalog: Category[] = [
       {
         id: "portatreco3cro",
         title: "Porta Treco 2 (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1882,7 +1882,7 @@ export const catalog: Category[] = [
       {
         id: "portatreco4cro",
         title: "Porta Treco Grande (Crochê)",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1899,7 +1899,7 @@ export const catalog: Category[] = [
       {
         id: "chaveiro-honeycomb",
         title: "Chavereiro - Colmeia",
-        price: "R$ 35",
+        price: "R$ 10",
         description:
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
         images: [
@@ -1909,7 +1909,7 @@ export const catalog: Category[] = [
       {
         id: "chaveiro-letra",
         title: "Chavereiro - Letra em Autorelevo",
-        price: "R$ 35",
+        price: "R$ R$ 15",
         description:
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
         images: [
@@ -1919,7 +1919,7 @@ export const catalog: Category[] = [
       {
         id: "chaveiro-nome",
         title: "Chaveiro Nome Simples",
-        price: "R$ 20",
+        price: "R$ 15",
         description:
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
         images: [
@@ -1929,7 +1929,7 @@ export const catalog: Category[] = [
       {
         id: "chaveiro-personalizado",
         title: "Chaveiro Flor/Estrela/Coração",
-        price: "R$ 20",
+        price: "R$ 15",
         description:
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
         images: [
@@ -1942,7 +1942,7 @@ export const catalog: Category[] = [
       {
         id: "chaveiro-italico",
         title: "Chaveiro Itálico",
-        price: "R$ 20",
+        price: "R$ 15",
         description:
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
         images: [
@@ -1953,7 +1953,7 @@ export const catalog: Category[] = [
       {
         id: "chaveiro-disney",
         title: "Chaveiro Disney",
-        price: "R$ 20",
+        price: "R$ 15",
         description:
           "Guarde para sempre um dos momentos mais importantes da sua vida. Esta miniatura estilo colecionável cria uma lembrança única e cheia de significado. Perfeita para decorar mesas, estantes ou presentear alguém especial que está conquistando uma grande etapa. Produzida em impressão 3D com ótimo nível de detalhes, é uma recordação criativa e exclusiva.",
         images: [
@@ -1970,7 +1970,7 @@ export const catalog: Category[] = [
       {
         id: "Toponomedisney",
         title: "Topo de Bolo - Letreiro Disney",
-        price: "R$ 40",
+        price: "",
         description:
           "",
         images: [
@@ -1981,7 +1981,7 @@ export const catalog: Category[] = [
        {
         id: "topoidade",
         title: "Topo de Bolo - Personalizado",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -1991,7 +1991,7 @@ export const catalog: Category[] = [
       {
         id: "topopersonagens",
         title: "Topo de Bolo - Heróis",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -2001,7 +2001,7 @@ export const catalog: Category[] = [
       {
         id: "topopersonagens",
         title: "Topo de Bolo - Princesas",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -2085,7 +2085,7 @@ export const catalog: Category[] = [
       {
         id: "placa-timao",
         title: "Placa Escudos - Corinthians",
-        price: "R$ 40",
+        price: "",
         description:
           "",
         images: [
@@ -2096,7 +2096,7 @@ export const catalog: Category[] = [
        {
         id: "personagens",
         title: "Personagens para Decoração",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -2130,7 +2130,7 @@ export const catalog: Category[] = [
       {
         id: "placa-timao",
         title: "Placa Escudos - Corinthians",
-        price: "R$ 40",
+        price: "",
         description:
           "",
         images: [
@@ -2141,7 +2141,7 @@ export const catalog: Category[] = [
        {
         id: "personagens",
         title: "Personagens para Decoração",
-        price: "R$ 20",
+        price: "",
         description:
           "",
         images: [
@@ -2190,7 +2190,7 @@ export const catalog: Category[] = [
       {
         id: "polaroidiloveu",
         title: "Polaroid I Love U",
-        price: "R$ 20",
+        price: "",
         description: "",
         images: [
           "/produtos/polaroidlove.png",
@@ -2473,7 +2473,7 @@ export const catalog: Category[] = [
       {
         id: "chaveirocoracao",
         title: "Chaveiro Coração: Nome Personalizado",
-        price: "R$ 20",
+        price: "",
         description:
           "Letreiro personalizado em impressão 3D com seu nome ou palavra desejada. Ideal para decoração de quartos, mesas ou para presentear alguém especial. Com design moderno e acabamento de qualidade, é uma peça criativa que adiciona personalidade a qualquer ambiente.",
         images: [
