@@ -1530,7 +1530,7 @@ export const catalog: Category[] = [
   {    
     id: "pokecroche",
     title: "Pokemons Crochê",  
-    image: "/produtos/pokemom-croche/pikachu.jpg",
+    image: "/produtos/pokemom-croche/pikachu.png",
     products: [
       {
         id: "caterpie",
