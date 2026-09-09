@@ -1964,7 +1964,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/letreironome.jpeg",
+          "/Letreironome.jpeg",
         ],
       },
        {
