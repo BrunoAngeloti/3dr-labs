@@ -1073,7 +1073,7 @@ export const catalog: Category[] = [
   {    
     id: "animaiscroche",
     title: "Animais Crochê",  
-    image: "/produtos/mariarosa.jpg",
+    image: "/produtos/animais-croche/raposa.jpg",
     products: [
        {
         id: "dinobravocro",
@@ -1462,7 +1462,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/animais-croche/placa.jpg",
+          "/produtos/animais-croche/foca.png",
         ],
       },
       {
@@ -1530,7 +1530,7 @@ export const catalog: Category[] = [
   {    
     id: "pokecroche",
     title: "Pokemons Crochê",  
-    image: "/produtos/pikachu.jpg",
+    image: "/produtos/pokemom-croche/pikachu.jpg",
     products: [
       {
         id: "caterpie",
@@ -1539,7 +1539,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/placa.jpg",
+          "/produtos/pokemom-croche/caterppie.jpg",
         ],
       },
       {
@@ -1549,7 +1549,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokemom-croche/gengar.jpg",
         ],
       },
       {
@@ -1559,7 +1559,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokemom-croche/evee.jpg",
         ],
       },
       {
@@ -1569,7 +1569,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokemom-croche/charmander.jpg",
         ],
       },
       {
@@ -1579,7 +1579,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokemom-croche/pikachu.jpg",
         ],
       },
       {
@@ -1589,7 +1589,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokemom-croche/pikachu-natal.jpg",
         ],
       },
       {
@@ -1599,7 +1599,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokemom-croche/squartle.jpg",
         ],
       },
        {
@@ -1609,7 +1609,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokemom-croche/bubasalro.jpg",
         ],
       },
       {
@@ -1619,7 +1619,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokemom-croche/diglett.jpg",
         ],
       },
       {
@@ -1629,7 +1629,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokemom-croche/jigglypuff-croche.jpg",
         ],
       },
       {
@@ -1639,7 +1639,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokemom-croche/metapod-croche.jpg",
         ],
       },
       {
@@ -1649,7 +1649,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokemom-croche/psyduck-croche.jpg",
         ],
       },
       {
@@ -1659,7 +1659,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokemom-croche/snorlax-croche.jpg",
         ],
       },
       {
@@ -1669,7 +1669,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokemom-croche/squatlevelho.jpg",
         ],
       },
       {
@@ -1679,17 +1679,17 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokemom-croche/togepi-croche.jpg",
         ],
       },
       {
-        id: "Bayleefcro",
-        title: "Bayleef (Crochê)",
+        id: "chikorita",
+        title: "Chikorita (Crochê)",
         price: "R$ 20",
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokemom-croche/chikorita-croche.jpg",
         ],
       },
       {
@@ -1699,7 +1699,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokemom-croche/ditto-croche.jpg",
         ],
       },
       {
@@ -1709,7 +1709,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokemom-croche/geodude-croche.jpg",
         ],
       },
       {
@@ -1719,7 +1719,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokemom-croche/omanyte-croche.jpg",
         ],
       },
       {
@@ -1729,7 +1729,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokemom-croche/voltorb-croche.jpg",
         ],
       },
       {
@@ -1739,7 +1739,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/mariarosa.jpg",
+          "/produtos/pokemom-croche/pokebola-croche.jpg",
         ],
       },
     ],
