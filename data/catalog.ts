@@ -298,7 +298,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/animes-croche/golden-freezae.jpg",
+          "/produtos/animes-croche/golden-freeza.jpg",
         ],
       },
       {
