@@ -240,16 +240,15 @@ export const catalog: Category[] = [
   {
     id: "animes-croche",
     title: "Animes Crochê",
-    image: "/produtos/bonecos-croche/categoria.png",
+    image: "/produtos/animes-croche/naruto-croche.jpg",
     products: [
       {
         id: "Naruto-Crochê",
         title: "Naruto (Crochê)",
         price: "",
-        description:
-          "Inspirado em Como Treinar Seu Dragão, este Banguela em estilo crochê combina fofura e criatividade em uma peça única. Ideal para decorar mesas, nichos e setups, ou presentear fãs do dragão mais querido do cinema. Produzido em impressão 3D, é um item colecionável cheio de personalidade e charme.",
+        description: "",
         images: [
-          "/produtos/banguela-croche.jpg",
+          "/produtos/animes-croche/naruto-croche.jpg",
          ],
       },
       {
@@ -259,7 +258,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/Esquilo-croche.jpg",
+          "/produtos/animes-croche/zenitsu-croche.jpg",
         ],
       },
       {
@@ -269,7 +268,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/panda-croche.jpg",
+          "/produtos/animes-croche/luffy-croche.jpg",
         ],
       },
       {
@@ -279,7 +278,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/panda-croche.jpg",
+          "/produtos/animes-croche/goku-croche.jpg",
         ],
       },
       {
@@ -289,27 +288,27 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/panda-croche.jpg",
+          "/produtos/animes-croche/vegeta-croche.jpg",
         ],
       },
       {
         id: "frieza",
-        title: "Golden Frieza (Crochê)",
+        title: "Golden Freeza (Crochê)",
         price: "",
         description:
           "",
         images: [
-          "/produtos/panda-croche.jpg",
+          "/produtos/animes-croche/golden-freezae.jpg",
         ],
       },
       {
         id: "makincro",
-        title: "Majim Boo (Crochê)",
+        title: "Kid Boo (Crochê)",
         price: "",
         description:
           "",
         images: [
-          "/produtos/panda-croche.jpg",
+          "/produtos/animes-croche/kid-buu-croche.jpg",
         ],
       },
       {
@@ -319,7 +318,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/panda-croche.jpg",
+          "/produtos/animes-croche/itachi-croche.jpg",
         ],
       },
       {
@@ -329,7 +328,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/panda-croche.jpg",
+          "/produtos/animes-croche/jiraiya-croche.jpg",
         ],
       },
       {
@@ -339,7 +338,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/panda-croche.jpg",
+          "/produtos/animes-croche/inosuke-croche.jpg",
         ],
       },
       {
@@ -349,7 +348,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/panda-croche.jpg",
+          "/produtos/animes-croche/tanjiro-croche.jpg",
         ],
       },
       {
@@ -359,7 +358,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/panda-croche.jpg",
+          "/produtos/animes-croche/nekuzo-croche.jpg",
         ],
       },
       {
@@ -369,7 +368,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/panda-croche.jpg",
+          "/produtos/animes-croche/franky-croche.jpg",
         ],
       },
       {
@@ -379,7 +378,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/panda-croche.jpg",
+          "/produtos/animes-croche/nami-croche.jpg",
         ],
       },
       {
@@ -389,7 +388,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/panda-croche.jpg",
+          "/produtos/animes-croche/usopp-croche.jpg",
         ],
       },
       {
@@ -399,7 +398,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/panda-croche.jpg",
+          "/produtos/animes-croche/jinbe-croche.jpg",
         ],
       },
       {
@@ -409,7 +408,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/panda-croche.jpg",
+          "/produtos/animes-croche/nico-robin-croche.jpg",
         ],
       },
       {
@@ -419,7 +418,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/panda-croche.jpg",
+          "/produtos/animes-croche/brook-croche.jpg",
         ],
       },
       {
@@ -429,7 +428,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/panda-croche.jpg",
+          "/produtos/animes-croche/chopper-croche.jpg",
         ],
       },
       {
@@ -439,7 +438,7 @@ export const catalog: Category[] = [
         description:
           "",
         images: [
-          "/produtos/panda-croche.jpg",
+          "/produtos/animes-croche/sanji-croche.jpg",
         ],
       },
     ],
